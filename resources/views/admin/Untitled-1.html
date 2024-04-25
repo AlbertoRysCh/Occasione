@@ -1,0 +1,214 @@
+<table class="min-w-full divide-y divide-gray-200">
+                   <thead class="bg-gray-50">
+                    <tr>
+                        <th scope="col"
+                            class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                            Nombre
+                        </th>
+                        <th scope="col"
+                            class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                            Precio
+                        </th>
+                        <th scope="col"
+                            class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                            Cantidad
+                        </th>
+                        <th scope="col"
+                            class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                            Total
+                        </th>
+                    </tr>
+                </thead>   
+
+                <tbody class="bg-white divide-y divide-gray-200">
+
+                    @foreach (Cart::content() as $item)
+                          
+                        <tr>
+                            <td class="px-6 py-4 whitespace-nowrap">
+                                <div class="flex items-center">
+                                    <div class="flex-shrink-0 h-10 w-10">
+                                        <img class="h-10 w-10 rounded-full object-cover object-center"
+                                            src="{{ $item->options->image }}"
+                                            alt="">
+                                    </div>
+                                    <div class="ml-4">
+                                        <div class="text-sm font-medium text-gray-900">
+                                            {{$item->name}}
+                                        </div>
+                                        <div class="text-sm text-gray-500">
+                                            @if ($item->options->color)
+                                                <span>
+                                                    Color: {{ __($item->options->color) }}
+                                                </span>    
+                                            @endif
+
+                                            @if ($item->options->size)
+
+                                                <span class="mx-1">-</span>
+
+                                                <span>
+                                                    {{ $item->options->size }}
+                                                </span>
+                                            @endif
+                                        </div>
+                                    </div>
+                                </div>
+                            </td>
+                            <td class="px-6 py-4 whitespace-nowrap">
+                         
+                                <div class="text-sm text-gray-500">
+                                    <span>{{$money}} {{ $item->price }}</span>
+                                    <a class="ml-6 cursor-pointer hover:text-red-600"
+                                        wire:click="delete('{{$item->rowId}}')"
+                                        wire:loading.class="text-red-600 opacity-25"
+                                        wire:target="delete('{{$item->rowId}}')">
+                                        <i class="fas fa-trash"></i>  
+                                    </a>
+                                </div>
+                            </td>
+                            <td class="px-6 py-4 whitespace-nowrap">
+                                <div class="text-sm text-gray-500">
+                                    @if ($item->options->size)
+
+                                        @livewire('update-cart-item-size', ['rowId' => $item->rowId], key($item->rowId))
+
+                                    @elseif($item->options->color)
+
+                                        @livewire('update-cart-item-color', ['rowId' => $item->rowId], key($item->rowId))
+                                        
+                                    @else
+
+                                        @livewire('update-cart-item', ['rowId' => $item->rowId], key($item->rowId))
+
+                                    @endif
+                                </div>
+                            </td>
+                            <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+                                <div class="text-sm text-gray-500">
+                                    {{$money}} {{$item->price * $item->qty}}
+                                </div>
+                            </td>
+                        </tr>
+
+                    @endforeach
+
+                </tbody>
+            </table>
+
+
+
+
+<div class="cart-items row" ng-repeat="item in cart.data.items">
+  <div class="alert alert-warning col-12 ng-hide" ng-show="cart.data.isUndeliverable(item.sku)">
+    <span class="icon icon-alert"></span>
+    <div class="alert-important-text">
+      
+    </div>
+  </div>
+
+  <div class="cart-item row">
+
+    <div class="col-md-11">
+    <div class="row">
+      <div class="col-2">
+        <div class="image-container">
+          <a href="/p/umidigi-a11-pro-max-8gb-ram-128gb-versio-n-global-helio-g80-48mp-js2xvc" title="UMIDIGI A11 Pro Max 8GB RAM 128GB versión Global Helio G80 48MP">
+            <img ng-src="//i.linio.com/p/29b4f751e8d47a418d1fd966d4b958cf-cart.jpg" alt="UMIDIGI A11 Pro Max 8GB RAM 128GB versión Global Helio G80 48MP" src="//i.linio.com/p/29b4f751e8d47a418d1fd966d4b958cf-cart.jpg">
+          </a>
+        </div>
+      </div>
+
+      <div class="item-title col-10">
+        <span><a href="/p/umidigi-a11-pro-max-8gb-ram-128gb-versio-n-global-helio-g80-48mp-js2xvc">UMIDIGI A11 Pro Max 8GB RAM 128GB versión Global Helio G80 48MP</a></span>
+
+        <span class="delivery-section">
+  <span class="badge-international-shipping" ui-tooltip="" data-tooltip="<ul>
+<li>Impuestos incluidos. No tendrás cobros extras.</li>
+<li>Cuenta con garantía de satisfacción.</li>
+<li>Devoluciones fáciles y gratis.</li>
+<li><a href=&quot;https://www.linio.com.pe/cm/productos-internacionales-en-peru&quot; target=&quot;_blank&quot;>Ver Más Productos Internacionales</a></li>
+</ul>
+
+" data-tooltip-class="tooltip-lg" ng-show="item.imported"></span>
+
+  <span class="badge-oversized ng-hide" ui-tooltip="" data-tooltip="<p>Recuerda que las entregas se hacen hasta la puerta de tu domicilio en planta baja, revisa las condiciones de entrega <a href=&quot;https://www.linio.com.pe/sp/preguntas-frecuentes/envio#s2-p6&quot;>aquí</a></p>
+
+" data-tooltip-class="tooltip-sm" ng-show="item.oversized"></span>
+
+  <!---->
+
+  </span>
+
+  <div ng-switch="item.conditionTypeNote">
+    <!----><span ng-switch-default="" class="badge-condition-type">Nuevo</span><!---->
+    <!----><!----><!---->
+  </div>
+
+        <ul class="item-variation" ng-show="item.variation &amp;&amp; item.variation != '...' &amp;&amp; item.variation != '…'">
+          <li ng-show="item.variationType == 'size'" class="ng-hide">Talla: Frost Grey</li>
+          <li ng-show="item.variationType != 'size'">Opción: Frost Grey</li>
+        </ul>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 offset-md-2">
+        <div class="price-section">
+
+          
+          <div class="discount-container" ng-show="item.percentageOff">
+
+                          <span class="original-price"> S/ 999.00</span>
+            
+                          <!----><span class="discount" ng-if="item.percentageOff >= 1">- 28%</span><!---->
+            
+            
+          </div>
+          <div>
+            <div class="lowest-price">
+              <div class="price-main-md">S/ 719.00
+                                              </div>
+            </div>
+            <!---->
+          </div>
+        </div>
+
+        <div>
+          <div class="shipping-estimate-section">
+    <!----><div ng-if="item.selectedShipping &amp;&amp; !item.virtual">
+    <span class="cart-shipping-icon icon"></span>
+  </div><!---->
+  <div class="cart-store-pickup-post-icon-aligner">
+    <!---->
+    <!----><div ng-if="!item.virtual">
+        <!----><div class="delivery-date" ng-if="item.selectedShipping">
+    <p>
+      Entrega estimada: 31 de enero
+      <!---->
+    </p>
+  </div><!---->
+  <!---->
+    </div><!---->
+  </div>
+</div>
+  <!---->
+        </div>
+
+                  <div class="seller-section">
+            <!----><p ng-if="item.seller">Enviado y Vendido por Umidigi Official Store</p><!---->
+          </div>
+        
+      </div>
+     </div>
+    </div>
+
+    <div class="amount-section col-md-1 col-12">
+      <select class="form-control form-control-sm ng-pristine ng-valid ng-not-empty ng-touched" ng-model="item.quantity" ng-options="quantity for quantity in [] | range:1:item.maxItemsToSell track by quantity" ng-change="cart.updateQuantity(item.sku, item.quantity)" style=""><option label="1" value="1" selected="selected">1</option></select>
+    </div>
+
+    <div class="cart-actions col-12">
+              <a ng-click="cart.saveForLater(item)">Guardar para después</a>
+            <a ng-click="cart.removeItem(item.sku)">Eliminar</a>
+    </div>
+  </div>
+</div>

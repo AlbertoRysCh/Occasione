@@ -1,0 +1,52 @@
+.mercadopago-button,
+.stripi-button {
+    background: #ea580c !important;
+    color: #fff !important;
+    font-size: 0.85rem !important;
+}
+
+.stripi-button {
+    padding: 0 1.7142857142857142em;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    line-height: 2.7142857142857144;
+    border-radius: 0.2857142857142857em;
+    cursor: pointer;
+    border: 0;
+    width: 100%;
+    justify-content: center;
+    margin: 0 30px;
+}
+
+div#card-element {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.btn-strapi {
+    justify-content: flex-end;
+    display: flex;
+}
+.btn-mercadopago {
+    justify-content: flex-end !important;
+    display: flex !important;
+}
+
+.glider-next {
+    right: 0px !important;
+}
+.glider-prev {
+    left: 0px !important;
+}
+
+@media (max-width: 800px) {
+    .glider-slider img {
+        /* height: 150px !important; */
+        height: 100% !important;
+    }
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -4px;
+    margin-left: -4px;
+}

@@ -1,0 +1,37 @@
+Paso de subir proyect a github
+
+git init
+
+git remote add origin https://github.com/jhed-98/laravel-ecommerce-occasione.git
+
+git add .
+
+git commit -m "ecommerce occasione"
+
+git branch -m master
+
+git push -u origin master
+
+//git push -f origin master
+
+//despues normal git push
+
+//POSIBLE ERROR
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+
+git pullhace dos operaciones; primero hace una 
+
+.git fetch
+
+actualización con las confirmaciones en el repositorio remoto (que actualiza la origin/masterreferencia en su repositorio local), 
+
+luego hace una 
+
+.git merge
+
+para fusionar esas confirmaciones en la rama actual.

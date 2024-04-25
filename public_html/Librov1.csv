@@ -1,0 +1,1868 @@
+departments,cities,districts,cost,cost_international,days_received,days_late
+Amazonas,Chachapoyas,Chachapoyas,12,15,14,5
+Amazonas,Chachapoyas,Asuncion,12,15,14,5
+Amazonas,Chachapoyas,Balsas,12,15,14,5
+Amazonas,Chachapoyas,Cheto,12,15,14,5
+Amazonas,Chachapoyas,Chiliquin,12,15,14,5
+Amazonas,Chachapoyas,Chuquibamba,12,15,14,5
+Amazonas,Chachapoyas,Granada,12,15,14,5
+Amazonas,Chachapoyas,Huancas,12,15,14,5
+Amazonas,Chachapoyas,La Jalca,12,15,14,5
+Amazonas,Chachapoyas,Leimebamba,12,15,14,5
+Amazonas,Chachapoyas,Levanto,12,15,14,5
+Amazonas,Chachapoyas,Magdalena,12,15,14,5
+Amazonas,Chachapoyas,Mariscal Castilla,12,15,14,5
+Amazonas,Chachapoyas,Molinopampa,12,15,14,5
+Amazonas,Chachapoyas,Montevideo,12,15,14,5
+Amazonas,Chachapoyas,Olleros,12,15,14,5
+Amazonas,Chachapoyas,Quinjalca,12,15,14,5
+Amazonas,Chachapoyas,San Francisco de Daguas,12,15,14,5
+Amazonas,Chachapoyas,San Isidro de Maino,12,15,14,5
+Amazonas,Chachapoyas,Soloco,12,15,14,5
+Amazonas,Chachapoyas,Sonche,12,15,14,5
+Amazonas,Bagua,Bagua,12,15,14,5
+Amazonas,Bagua,Aramango,12,15,14,5
+Amazonas,Bagua,Copallin,12,15,14,5
+Amazonas,Bagua,El Parco,12,15,14,5
+Amazonas,Bagua,Imaza,12,15,14,5
+Amazonas,Bagua,La Peca,12,15,14,5
+Amazonas,Bongara,Jumbilla,12,15,14,5
+Amazonas,Bongara,Chisquilla,12,15,14,5
+Amazonas,Bongara,Churuja,12,15,14,5
+Amazonas,Bongara,Corosha,12,15,14,5
+Amazonas,Bongara,Cuispes,12,15,14,5
+Amazonas,Bongara,Florida,12,15,14,5
+Amazonas,Bongara,Jazan,12,15,14,5
+Amazonas,Bongara,Recta,12,15,14,5
+Amazonas,Bongara,San Carlos,12,15,14,5
+Amazonas,Bongara,Shipasbamba,12,15,14,5
+Amazonas,Bongara,Valera,12,15,14,5
+Amazonas,Bongara,Yambrasbamba,12,15,14,5
+Amazonas,Condorcanqui,Nieva,12,15,14,5
+Amazonas,Condorcanqui,El Cenepa,12,15,14,5
+Amazonas,Condorcanqui,Rio Santiago,12,15,14,5
+Amazonas,Luya,Lamud,12,15,14,5
+Amazonas,Luya,Camporredondo,12,15,14,5
+Amazonas,Luya,Cocabamba,12,15,14,5
+Amazonas,Luya,Colcamar,12,15,14,5
+Amazonas,Luya,Conila,12,15,14,5
+Amazonas,Luya,Inguilpata,12,15,14,5
+Amazonas,Luya,Longuita,12,15,14,5
+Amazonas,Luya,Lonya Chico,12,15,14,5
+Amazonas,Luya,Luya,12,15,14,5
+Amazonas,Luya,Luya Viejo,12,15,14,5
+Amazonas,Luya,Maria,12,15,14,5
+Amazonas,Luya,Ocalli,12,15,14,5
+Amazonas,Luya,Ocumal,12,15,14,5
+Amazonas,Luya,Pisuquia,12,15,14,5
+Amazonas,Luya,Providencia,12,15,14,5
+Amazonas,Luya,San Cristobal,12,15,14,5
+Amazonas,Luya,San Francisco de Yeso,12,15,14,5
+Amazonas,Luya,San Jeronimo,12,15,14,5
+Amazonas,Luya,San Juan de Lopecancha,12,15,14,5
+Amazonas,Luya,Santa Catalina,12,15,14,5
+Amazonas,Luya,Santo Tomas,12,15,14,5
+Amazonas,Luya,Tingo,12,15,14,5
+Amazonas,Luya,Trita,12,15,14,5
+Amazonas,Rodriguez de Mendoza,San Nicolas,12,15,14,5
+Amazonas,Rodriguez de Mendoza,Chirimoto,12,15,14,5
+Amazonas,Rodriguez de Mendoza,Cochamal,12,15,14,5
+Amazonas,Rodriguez de Mendoza,Huambo,12,15,14,5
+Amazonas,Rodriguez de Mendoza,Limabamba,12,15,14,5
+Amazonas,Rodriguez de Mendoza,Longar,12,15,14,5
+Amazonas,Rodriguez de Mendoza,Mariscal Benavides,12,15,14,5
+Amazonas,Rodriguez de Mendoza,Milpuc,12,15,14,5
+Amazonas,Rodriguez de Mendoza,Omia,12,15,14,5
+Amazonas,Rodriguez de Mendoza,Santa Rosa,12,15,14,5
+Amazonas,Rodriguez de Mendoza,Totora,12,15,14,5
+Amazonas,Rodriguez de Mendoza,Vista Alegre,12,15,14,5
+Amazonas,Utcubamba,Bagua Grande,12,15,14,5
+Amazonas,Utcubamba,Cajaruro,12,15,14,5
+Amazonas,Utcubamba,Cumba,12,15,14,5
+Amazonas,Utcubamba,El Milagro,12,15,14,5
+Amazonas,Utcubamba,Jamalca,12,15,14,5
+Amazonas,Utcubamba,Lonya Grande,12,15,14,5
+Amazonas,Utcubamba,Yamon,12,15,14,5
+ancash,Huaraz,Huaraz,12,15,14,5
+ancash,Huaraz,Cochabamba,12,15,14,5
+ancash,Huaraz,Colcabamba,12,15,14,5
+ancash,Huaraz,Huanchay,12,15,14,5
+ancash,Huaraz,Independencia,12,15,14,5
+ancash,Huaraz,Jangas,12,15,14,5
+ancash,Huaraz,La Libertad,12,15,14,5
+ancash,Huaraz,Olleros,12,15,14,5
+ancash,Huaraz,Pampas Grande,12,15,14,5
+ancash,Huaraz,Pariacoto,12,15,14,5
+ancash,Huaraz,Pira,12,15,14,5
+ancash,Huaraz,Tarica,12,15,14,5
+ancash,Aija,Aija,12,15,14,5
+ancash,Aija,Coris,12,15,14,5
+ancash,Aija,Huacllan,12,15,14,5
+ancash,Aija,La Merced,12,15,14,5
+ancash,Aija,Succha,12,15,14,5
+ancash,Antonio Raymondi,Llamellin,12,15,14,5
+ancash,Antonio Raymondi,Aczo,12,15,14,5
+ancash,Antonio Raymondi,Chaccho,12,15,14,5
+ancash,Antonio Raymondi,Chingas,12,15,14,5
+ancash,Antonio Raymondi,Mirgas,12,15,14,5
+ancash,Antonio Raymondi,San Juan de Rontoy,12,15,14,5
+ancash,Asuncion,Chacas,12,15,14,5
+ancash,Asuncion,Acochaca,12,15,14,5
+ancash,Bolognesi,Chiquian,12,15,14,5
+ancash,Bolognesi,Abelardo Pardo Lezameta,12,15,14,5
+ancash,Bolognesi,Antonio Raymondi,12,15,14,5
+ancash,Bolognesi,Aquia,12,15,14,5
+ancash,Bolognesi,Cajacay,12,15,14,5
+ancash,Bolognesi,Canis,12,15,14,5
+ancash,Bolognesi,Colquioc,12,15,14,5
+ancash,Bolognesi,Huallanca,12,15,14,5
+ancash,Bolognesi,Huasta,12,15,14,5
+ancash,Bolognesi,Huayllacayan,12,15,14,5
+ancash,Bolognesi,La Primavera,12,15,14,5
+ancash,Bolognesi,Mangas,12,15,14,5
+ancash,Bolognesi,Pacllon,12,15,14,5
+ancash,Bolognesi,San Miguel de Corpanqui,12,15,14,5
+ancash,Bolognesi,Ticllos,12,15,14,5
+ancash,Carhuaz,Carhuaz,12,15,14,5
+ancash,Carhuaz,Acopampa,12,15,14,5
+ancash,Carhuaz,Amashca,12,15,14,5
+ancash,Carhuaz,Anta,12,15,14,5
+ancash,Carhuaz,Ataquero,12,15,14,5
+ancash,Carhuaz,Marcara,12,15,14,5
+ancash,Carhuaz,Pariahuanca,12,15,14,5
+ancash,Carhuaz,San Miguel de Aco,12,15,14,5
+ancash,Carhuaz,Shilla,12,15,14,5
+ancash,Carhuaz,Tinco,12,15,14,5
+ancash,Carhuaz,Yungar,12,15,14,5
+ancash,Carlos Fermin Fitzcarrald,San Luis,12,15,14,5
+ancash,Carlos Fermin Fitzcarrald,San Nicolas,12,15,14,5
+ancash,Carlos Fermin Fitzcarrald,Yauya,12,15,14,5
+ancash,Casma,Casma,12,15,14,5
+ancash,Casma,Buena Vista Alta,12,15,14,5
+ancash,Casma,Comandante Noel,12,15,14,5
+ancash,Casma,Yautan,12,15,14,5
+ancash,Corongo,Corongo,12,15,14,5
+ancash,Corongo,Aco,12,15,14,5
+ancash,Corongo,Bambas,12,15,14,5
+ancash,Corongo,Cusca,12,15,14,5
+ancash,Corongo,La Pampa,12,15,14,5
+ancash,Corongo,Yanac,12,15,14,5
+ancash,Corongo,Yupan,12,15,14,5
+ancash,Huari,Huari,12,15,14,5
+ancash,Huari,Anra,12,15,14,5
+ancash,Huari,Cajay,12,15,14,5
+ancash,Huari,Chavin de Huantar,12,15,14,5
+ancash,Huari,Huacachi,12,15,14,5
+ancash,Huari,Huacchis,12,15,14,5
+ancash,Huari,Huachis,12,15,14,5
+ancash,Huari,Huantar,12,15,14,5
+ancash,Huari,Masin,12,15,14,5
+ancash,Huari,Paucas,12,15,14,5
+ancash,Huari,Ponto,12,15,14,5
+ancash,Huari,Rahuapampa,12,15,14,5
+ancash,Huari,Rapayan,12,15,14,5
+ancash,Huari,San Marcos,12,15,14,5
+ancash,Huari,San Pedro de Chana,12,15,14,5
+ancash,Huari,Uco,12,15,14,5
+ancash,Huarmey,Huarmey,12,15,14,5
+ancash,Huarmey,Cochapeti,12,15,14,5
+ancash,Huarmey,Culebras,12,15,14,5
+ancash,Huarmey,Huayan,12,15,14,5
+ancash,Huarmey,Malvas,12,15,14,5
+ancash,Huaylas,Caraz,12,15,14,5
+ancash,Huaylas,Huallanca,12,15,14,5
+ancash,Huaylas,Huata,12,15,14,5
+ancash,Huaylas,Huaylas,12,15,14,5
+ancash,Huaylas,Mato,12,15,14,5
+ancash,Huaylas,Pamparomas,12,15,14,5
+ancash,Huaylas,Pueblo Libre,12,15,14,5
+ancash,Huaylas,Santa Cruz,12,15,14,5
+ancash,Huaylas,Santo Toribio,12,15,14,5
+ancash,Huaylas,Yuracmarca,12,15,14,5
+ancash,Mariscal Luzuriaga,Piscobamba,12,15,14,5
+ancash,Mariscal Luzuriaga,Casca,12,15,14,5
+ancash,Mariscal Luzuriaga,Eleazar Guzman Barron,12,15,14,5
+ancash,Mariscal Luzuriaga,Fidel Olivas Escudero,12,15,14,5
+ancash,Mariscal Luzuriaga,Llama,12,15,14,5
+ancash,Mariscal Luzuriaga,Llumpa,12,15,14,5
+ancash,Mariscal Luzuriaga,Lucma,12,15,14,5
+ancash,Mariscal Luzuriaga,Musga,12,15,14,5
+ancash,Ocros,Ocros,12,15,14,5
+ancash,Ocros,Acas,12,15,14,5
+ancash,Ocros,Cajamarquilla,12,15,14,5
+ancash,Ocros,Carhuapampa,12,15,14,5
+ancash,Ocros,Cochas,12,15,14,5
+ancash,Ocros,Congas,12,15,14,5
+ancash,Ocros,Llipa,12,15,14,5
+ancash,Ocros,San Cristobal de Rajan,12,15,14,5
+ancash,Ocros,San Pedro,12,15,14,5
+ancash,Ocros,Santiago de Chilcas,12,15,14,5
+ancash,Pallasca,Cabana,12,15,14,5
+ancash,Pallasca,Bolognesi,12,15,14,5
+ancash,Pallasca,Conchucos,12,15,14,5
+ancash,Pallasca,Huacaschuque,12,15,14,5
+ancash,Pallasca,Huandoval,12,15,14,5
+ancash,Pallasca,Lacabamba,12,15,14,5
+ancash,Pallasca,Llapo,12,15,14,5
+ancash,Pallasca,Pallasca,12,15,14,5
+ancash,Pallasca,Pampas,12,15,14,5
+ancash,Pallasca,Santa Rosa,12,15,14,5
+ancash,Pallasca,Tauca,12,15,14,5
+ancash,Pomabamba,Pomabamba,12,15,14,5
+ancash,Pomabamba,Huayllan,12,15,14,5
+ancash,Pomabamba,Parobamba,12,15,14,5
+ancash,Pomabamba,Quinuabamba,12,15,14,5
+ancash,Recuay,Recuay,12,15,14,5
+ancash,Recuay,Catac,12,15,14,5
+ancash,Recuay,Cotaparaco,12,15,14,5
+ancash,Recuay,Huayllapampa,12,15,14,5
+ancash,Recuay,Llacllin,12,15,14,5
+ancash,Recuay,Marca,12,15,14,5
+ancash,Recuay,Pampas Chico,12,15,14,5
+ancash,Recuay,Pararin,12,15,14,5
+ancash,Recuay,Tapacocha,12,15,14,5
+ancash,Recuay,Ticapampa,12,15,14,5
+ancash,Santa,Chimbote,12,15,14,5
+ancash,Santa,Caceres del Peru,12,15,14,5
+ancash,Santa,Coishco,12,15,14,5
+ancash,Santa,Macate,12,15,14,5
+ancash,Santa,Moro,12,15,14,5
+ancash,Santa,Nepeña,12,15,14,5
+ancash,Santa,Samanco,12,15,14,5
+ancash,Santa,Santa,12,15,14,5
+ancash,Santa,Nuevo Chimbote,12,15,14,5
+ancash,Sihuas,Sihuas,12,15,14,5
+ancash,Sihuas,Acobamba,12,15,14,5
+ancash,Sihuas,Alfonso Ugarte,12,15,14,5
+ancash,Sihuas,Cashapampa,12,15,14,5
+ancash,Sihuas,Chingalpo,12,15,14,5
+ancash,Sihuas,Huayllabamba,12,15,14,5
+ancash,Sihuas,Quiches,12,15,14,5
+ancash,Sihuas,Ragash,12,15,14,5
+ancash,Sihuas,San Juan,12,15,14,5
+ancash,Sihuas,Sicsibamba,12,15,14,5
+ancash,Yungay,Yungay,12,15,14,5
+ancash,Yungay,Cascapara,12,15,14,5
+ancash,Yungay,Mancos,12,15,14,5
+ancash,Yungay,Matacoto,12,15,14,5
+ancash,Yungay,Quillo,12,15,14,5
+ancash,Yungay,Ranrahirca,12,15,14,5
+ancash,Yungay,Shupluy,12,15,14,5
+ancash,Yungay,Yanama,12,15,14,5
+Apurimac,Abancay,Abancay,12,15,14,5
+Apurimac,Abancay,Chacoche,12,15,14,5
+Apurimac,Abancay,Circa,12,15,14,5
+Apurimac,Abancay,Curahuasi,12,15,14,5
+Apurimac,Abancay,Huanipaca,12,15,14,5
+Apurimac,Abancay,Lambrama,12,15,14,5
+Apurimac,Abancay,Pichirhua,12,15,14,5
+Apurimac,Abancay,San Pedro de Cachora,12,15,14,5
+Apurimac,Abancay,Tamburco,12,15,14,5
+Apurimac,Andahuaylas,Andahuaylas,12,15,14,5
+Apurimac,Andahuaylas,Andarapa,12,15,14,5
+Apurimac,Andahuaylas,Chiara,12,15,14,5
+Apurimac,Andahuaylas,Huancarama,12,15,14,5
+Apurimac,Andahuaylas,Huancaray,12,15,14,5
+Apurimac,Andahuaylas,Huayana,12,15,14,5
+Apurimac,Andahuaylas,Kishuara,12,15,14,5
+Apurimac,Andahuaylas,Pacobamba,12,15,14,5
+Apurimac,Andahuaylas,Pacucha,12,15,14,5
+Apurimac,Andahuaylas,Pampachiri,12,15,14,5
+Apurimac,Andahuaylas,Pomacocha,12,15,14,5
+Apurimac,Andahuaylas,San Antonio de Cachi,12,15,14,5
+Apurimac,Andahuaylas,San Jeronimo,12,15,14,5
+Apurimac,Andahuaylas,San Miguel de Chaccrampa,12,15,14,5
+Apurimac,Andahuaylas,Santa Maria de Chicmo,12,15,14,5
+Apurimac,Andahuaylas,Talavera,12,15,14,5
+Apurimac,Andahuaylas,Tumay Huaraca,12,15,14,5
+Apurimac,Andahuaylas,Turpo,12,15,14,5
+Apurimac,Andahuaylas,Kaquiabamba,12,15,14,5
+Apurimac,Andahuaylas,José Maria Arguedas,12,15,14,5
+Apurimac,Antabamba,Antabamba,12,15,14,5
+Apurimac,Antabamba,El Oro,12,15,14,5
+Apurimac,Antabamba,Huaquirca,12,15,14,5
+Apurimac,Antabamba,Juan Espinoza Medrano,12,15,14,5
+Apurimac,Antabamba,Oropesa,12,15,14,5
+Apurimac,Antabamba,Pachaconas,12,15,14,5
+Apurimac,Antabamba,Sabaino,12,15,14,5
+Apurimac,Aymaraes,Chalhuanca,12,15,14,5
+Apurimac,Aymaraes,Capaya,12,15,14,5
+Apurimac,Aymaraes,Caraybamba,12,15,14,5
+Apurimac,Aymaraes,Chapimarca,12,15,14,5
+Apurimac,Aymaraes,Colcabamba,12,15,14,5
+Apurimac,Aymaraes,Cotaruse,12,15,14,5
+Apurimac,Aymaraes,Ihuayllo,12,15,14,5
+Apurimac,Aymaraes,Justo Apu Sahuaraura,12,15,14,5
+Apurimac,Aymaraes,Lucre,12,15,14,5
+Apurimac,Aymaraes,Pocohuanca,12,15,14,5
+Apurimac,Aymaraes,San Juan de Chacña,12,15,14,5
+Apurimac,Aymaraes,Sañayca,12,15,14,5
+Apurimac,Aymaraes,Soraya,12,15,14,5
+Apurimac,Aymaraes,Tapairihua,12,15,14,5
+Apurimac,Aymaraes,Tintay,12,15,14,5
+Apurimac,Aymaraes,Toraya,12,15,14,5
+Apurimac,Aymaraes,Yanaca,12,15,14,5
+Apurimac,Cotabambas,Tambobamba,12,15,14,5
+Apurimac,Cotabambas,Cotabambas,12,15,14,5
+Apurimac,Cotabambas,Coyllurqui,12,15,14,5
+Apurimac,Cotabambas,Haquira,12,15,14,5
+Apurimac,Cotabambas,Mara,12,15,14,5
+Apurimac,Cotabambas,Challhuahuacho,12,15,14,5
+Apurimac,Chincheros,Chincheros,12,15,14,5
+Apurimac,Chincheros,Anco_Huallo,12,15,14,5
+Apurimac,Chincheros,Cocharcas,12,15,14,5
+Apurimac,Chincheros,Huaccana,12,15,14,5
+Apurimac,Chincheros,Ocobamba,12,15,14,5
+Apurimac,Chincheros,Ongoy,12,15,14,5
+Apurimac,Chincheros,Uranmarca,12,15,14,5
+Apurimac,Chincheros,Ranracancha,12,15,14,5
+Apurimac,Chincheros,Rocchacc,12,15,14,5
+Apurimac,Chincheros,El Porvenir,12,15,14,5
+Apurimac,Grau,Chuquibambilla,12,15,14,5
+Apurimac,Grau,Curpahuasi,12,15,14,5
+Apurimac,Grau,Gamarra,12,15,14,5
+Apurimac,Grau,Huayllati,12,15,14,5
+Apurimac,Grau,Mamara,12,15,14,5
+Apurimac,Grau,Micaela Bastidas,12,15,14,5
+Apurimac,Grau,Pataypampa,12,15,14,5
+Apurimac,Grau,Progreso,12,15,14,5
+Apurimac,Grau,San Antonio,12,15,14,5
+Apurimac,Grau,Santa Rosa,12,15,14,5
+Apurimac,Grau,Turpay,12,15,14,5
+Apurimac,Grau,Vilcabamba,12,15,14,5
+Apurimac,Grau,Virundo,12,15,14,5
+Apurimac,Grau,Curasco,12,15,14,5
+Arequipa,Arequipa,Arequipa,12,15,14,5
+Arequipa,Arequipa,Alto Selva Alegre,12,15,14,5
+Arequipa,Arequipa,Cayma,12,15,14,5
+Arequipa,Arequipa,Cerro Colorado,12,15,14,5
+Arequipa,Arequipa,Characato,12,15,14,5
+Arequipa,Arequipa,Chiguata,12,15,14,5
+Arequipa,Arequipa,Jacobo Hunter,12,15,14,5
+Arequipa,Arequipa,La Joya,12,15,14,5
+Arequipa,Arequipa,Mariano Melgar,12,15,14,5
+Arequipa,Arequipa,Miraflores,12,15,14,5
+Arequipa,Arequipa,Mollebaya,12,15,14,5
+Arequipa,Arequipa,Paucarpata,12,15,14,5
+Arequipa,Arequipa,Pocsi,12,15,14,5
+Arequipa,Arequipa,Polobaya,12,15,14,5
+Arequipa,Arequipa,Quequeña,12,15,14,5
+Arequipa,Arequipa,Sabandia,12,15,14,5
+Arequipa,Arequipa,Sachaca,12,15,14,5
+Arequipa,Arequipa,San Juan de Siguas,12,15,14,5
+Arequipa,Arequipa,San Juan de Tarucani,12,15,14,5
+Arequipa,Arequipa,Santa Isabel de Siguas,12,15,14,5
+Arequipa,Arequipa,Santa Rita de Siguas,12,15,14,5
+Arequipa,Arequipa,Socabaya,12,15,14,5
+Arequipa,Arequipa,Tiabaya,12,15,14,5
+Arequipa,Arequipa,Uchumayo,12,15,14,5
+Arequipa,Arequipa,Vitor,12,15,14,5
+Arequipa,Arequipa,Yanahuara,12,15,14,5
+Arequipa,Arequipa,Yarabamba,12,15,14,5
+Arequipa,Arequipa,Yura,12,15,14,5
+Arequipa,Arequipa,José Luis Bustamante Y Rivero,12,15,14,5
+Arequipa,Camana,Camana,12,15,14,5
+Arequipa,Camana,José Maria Quimper,12,15,14,5
+Arequipa,Camana,Mariano Nicolas Valcarcel,12,15,14,5
+Arequipa,Camana,Mariscal Caceres,12,15,14,5
+Arequipa,Camana,Nicolas de Pierola,12,15,14,5
+Arequipa,Camana,Ocoña,12,15,14,5
+Arequipa,Camana,Quilca,12,15,14,5
+Arequipa,Camana,Samuel Pastor,12,15,14,5
+Arequipa,Caraveli,Caraveli,12,15,14,5
+Arequipa,Caraveli,Acari,12,15,14,5
+Arequipa,Caraveli,Atico,12,15,14,5
+Arequipa,Caraveli,Atiquipa,12,15,14,5
+Arequipa,Caraveli,Bella Union,12,15,14,5
+Arequipa,Caraveli,Cahuacho,12,15,14,5
+Arequipa,Caraveli,Chala,12,15,14,5
+Arequipa,Caraveli,Chaparra,12,15,14,5
+Arequipa,Caraveli,Huanuhuanu,12,15,14,5
+Arequipa,Caraveli,Jaqui,12,15,14,5
+Arequipa,Caraveli,Lomas,12,15,14,5
+Arequipa,Caraveli,Quicacha,12,15,14,5
+Arequipa,Caraveli,Yauca,12,15,14,5
+Arequipa,Castilla,Aplao,12,15,14,5
+Arequipa,Castilla,Andagua,12,15,14,5
+Arequipa,Castilla,Ayo,12,15,14,5
+Arequipa,Castilla,Chachas,12,15,14,5
+Arequipa,Castilla,Chilcaymarca,12,15,14,5
+Arequipa,Castilla,Choco,12,15,14,5
+Arequipa,Castilla,Huancarqui,12,15,14,5
+Arequipa,Castilla,Machaguay,12,15,14,5
+Arequipa,Castilla,Orcopampa,12,15,14,5
+Arequipa,Castilla,Pampacolca,12,15,14,5
+Arequipa,Castilla,Tipan,12,15,14,5
+Arequipa,Castilla,Uñon,12,15,14,5
+Arequipa,Castilla,Uraca,12,15,14,5
+Arequipa,Castilla,Viraco,12,15,14,5
+Arequipa,Caylloma,Chivay,12,15,14,5
+Arequipa,Caylloma,Achoma,12,15,14,5
+Arequipa,Caylloma,Cabanaconde,12,15,14,5
+Arequipa,Caylloma,Callalli,12,15,14,5
+Arequipa,Caylloma,Caylloma,12,15,14,5
+Arequipa,Caylloma,Coporaque,12,15,14,5
+Arequipa,Caylloma,Huambo,12,15,14,5
+Arequipa,Caylloma,Huanca,12,15,14,5
+Arequipa,Caylloma,Ichupampa,12,15,14,5
+Arequipa,Caylloma,Lari,12,15,14,5
+Arequipa,Caylloma,Lluta,12,15,14,5
+Arequipa,Caylloma,Maca,12,15,14,5
+Arequipa,Caylloma,Madrigal,12,15,14,5
+Arequipa,Caylloma,San Antonio de Chuca,12,15,14,5
+Arequipa,Caylloma,Sibayo,12,15,14,5
+Arequipa,Caylloma,Tapay,12,15,14,5
+Arequipa,Caylloma,Tisco,12,15,14,5
+Arequipa,Caylloma,Tuti,12,15,14,5
+Arequipa,Caylloma,Yanque,12,15,14,5
+Arequipa,Caylloma,Majes,12,15,14,5
+Arequipa,Condesuyos,Chuquibamba,12,15,14,5
+Arequipa,Condesuyos,Andaray,12,15,14,5
+Arequipa,Condesuyos,Cayarani,12,15,14,5
+Arequipa,Condesuyos,Chichas,12,15,14,5
+Arequipa,Condesuyos,Iray,12,15,14,5
+Arequipa,Condesuyos,Rio Grande,12,15,14,5
+Arequipa,Condesuyos,Salamanca,12,15,14,5
+Arequipa,Condesuyos,Yanaquihua,12,15,14,5
+Arequipa,Islay,Mollendo,12,15,14,5
+Arequipa,Islay,Cocachacra,12,15,14,5
+Arequipa,Islay,Dean Valdivia,12,15,14,5
+Arequipa,Islay,Islay,12,15,14,5
+Arequipa,Islay,Mejia,12,15,14,5
+Arequipa,Islay,Punta de Bombon,12,15,14,5
+Arequipa,La Uniòn,Cotahuasi,12,15,14,5
+Arequipa,La Uniòn,Alca,12,15,14,5
+Arequipa,La Uniòn,Charcana,12,15,14,5
+Arequipa,La Uniòn,Huaynacotas,12,15,14,5
+Arequipa,La Uniòn,Pampamarca,12,15,14,5
+Arequipa,La Uniòn,Puyca,12,15,14,5
+Arequipa,La Uniòn,Quechualla,12,15,14,5
+Arequipa,La Uniòn,Sayla,12,15,14,5
+Arequipa,La Uniòn,Tauria,12,15,14,5
+Arequipa,La Uniòn,Tomepampa,12,15,14,5
+Arequipa,La Uniòn,Toro,12,15,14,5
+Ayacucho,Huamanga,Ayacucho,12,15,14,5
+Ayacucho,Huamanga,Acocro,12,15,14,5
+Ayacucho,Huamanga,Acos Vinchos,12,15,14,5
+Ayacucho,Huamanga,Carmen Alto,12,15,14,5
+Ayacucho,Huamanga,Chiara,12,15,14,5
+Ayacucho,Huamanga,Ocros,12,15,14,5
+Ayacucho,Huamanga,Pacaycasa,12,15,14,5
+Ayacucho,Huamanga,Quinua,12,15,14,5
+Ayacucho,Huamanga,San José de Ticllas,12,15,14,5
+Ayacucho,Huamanga,San Juan Bautista,12,15,14,5
+Ayacucho,Huamanga,Santiago de Pischa,12,15,14,5
+Ayacucho,Huamanga,Socos,12,15,14,5
+Ayacucho,Huamanga,Tambillo,12,15,14,5
+Ayacucho,Huamanga,Vinchos,12,15,14,5
+Ayacucho,Huamanga,Jesus Nazareno,12,15,14,5
+Ayacucho,Huamanga,Andrés Avelino Caceres Dorregaray,12,15,14,5
+Ayacucho,Cangallo,Cangallo,12,15,14,5
+Ayacucho,Cangallo,Chuschi,12,15,14,5
+Ayacucho,Cangallo,Los Morochucos,12,15,14,5
+Ayacucho,Cangallo,Maria Parado de Bellido,12,15,14,5
+Ayacucho,Cangallo,Paras,12,15,14,5
+Ayacucho,Cangallo,Totos,12,15,14,5
+Ayacucho,Huanca Sancos,Sancos,12,15,14,5
+Ayacucho,Huanca Sancos,Carapo,12,15,14,5
+Ayacucho,Huanca Sancos,Sacsamarca,12,15,14,5
+Ayacucho,Huanca Sancos,Santiago de Lucanamarca,12,15,14,5
+Ayacucho,Huanta,Huanta,12,15,14,5
+Ayacucho,Huanta,Ayahuanco,12,15,14,5
+Ayacucho,Huanta,Huamanguilla,12,15,14,5
+Ayacucho,Huanta,Iguain,12,15,14,5
+Ayacucho,Huanta,Luricocha,12,15,14,5
+Ayacucho,Huanta,Santillana,12,15,14,5
+Ayacucho,Huanta,Sivia,12,15,14,5
+Ayacucho,Huanta,Llochegua,12,15,14,5
+Ayacucho,Huanta,Canayre,12,15,14,5
+Ayacucho,Huanta,Uchuraccay,12,15,14,5
+Ayacucho,Huanta,Pucacolpa,12,15,14,5
+Ayacucho,Huanta,Chaca,12,15,14,5
+Ayacucho,La Mar,San Miguel,12,15,14,5
+Ayacucho,La Mar,Anco,12,15,14,5
+Ayacucho,La Mar,Ayna,12,15,14,5
+Ayacucho,La Mar,Chilcas,12,15,14,5
+Ayacucho,La Mar,Chungui,12,15,14,5
+Ayacucho,La Mar,Luis Carranza,12,15,14,5
+Ayacucho,La Mar,Santa Rosa,12,15,14,5
+Ayacucho,La Mar,Tambo,12,15,14,5
+Ayacucho,La Mar,Samugari,12,15,14,5
+Ayacucho,La Mar,Anchihuay,12,15,14,5
+Ayacucho,Lucanas,Puquio,12,15,14,5
+Ayacucho,Lucanas,Aucara,12,15,14,5
+Ayacucho,Lucanas,Cabana,12,15,14,5
+Ayacucho,Lucanas,Carmen Salcedo,12,15,14,5
+Ayacucho,Lucanas,Chaviña,12,15,14,5
+Ayacucho,Lucanas,Chipao,12,15,14,5
+Ayacucho,Lucanas,Huac-Huas,12,15,14,5
+Ayacucho,Lucanas,Laramate,12,15,14,5
+Ayacucho,Lucanas,Leoncio Prado,12,15,14,5
+Ayacucho,Lucanas,Llauta,12,15,14,5
+Ayacucho,Lucanas,Lucanas,12,15,14,5
+Ayacucho,Lucanas,Ocaña,12,15,14,5
+Ayacucho,Lucanas,Otoca,12,15,14,5
+Ayacucho,Lucanas,Saisa,12,15,14,5
+Ayacucho,Lucanas,San Cristobal,12,15,14,5
+Ayacucho,Lucanas,San Juan,12,15,14,5
+Ayacucho,Lucanas,San Pedro,12,15,14,5
+Ayacucho,Lucanas,San Pedro de Palco,12,15,14,5
+Ayacucho,Lucanas,Sancos,12,15,14,5
+Ayacucho,Lucanas,Santa Ana de Huaycahuacho,12,15,14,5
+Ayacucho,Lucanas,Santa Lucia,12,15,14,5
+Ayacucho,Parinacochas,Coracora,12,15,14,5
+Ayacucho,Parinacochas,Chumpi,12,15,14,5
+Ayacucho,Parinacochas,Coronel Castañeda,12,15,14,5
+Ayacucho,Parinacochas,Pacapausa,12,15,14,5
+Ayacucho,Parinacochas,Pullo,12,15,14,5
+Ayacucho,Parinacochas,Puyusca,12,15,14,5
+Ayacucho,Parinacochas,San Francisco de Ravacayco,12,15,14,5
+Ayacucho,Parinacochas,Upahuacho,12,15,14,5
+Ayacucho,Pàucar del Sara Sara,Pausa,12,15,14,5
+Ayacucho,Pàucar del Sara Sara,Colta,12,15,14,5
+Ayacucho,Pàucar del Sara Sara,Corculla,12,15,14,5
+Ayacucho,Pàucar del Sara Sara,Lampa,12,15,14,5
+Ayacucho,Pàucar del Sara Sara,Marcabamba,12,15,14,5
+Ayacucho,Pàucar del Sara Sara,Oyolo,12,15,14,5
+Ayacucho,Pàucar del Sara Sara,Pararca,12,15,14,5
+Ayacucho,Pàucar del Sara Sara,San Javier de Alpabamba,12,15,14,5
+Ayacucho,Pàucar del Sara Sara,San José de Ushua,12,15,14,5
+Ayacucho,Pàucar del Sara Sara,Sara Sara,12,15,14,5
+Ayacucho,Sucre,Querobamba,12,15,14,5
+Ayacucho,Sucre,Belén,12,15,14,5
+Ayacucho,Sucre,Chalcos,12,15,14,5
+Ayacucho,Sucre,Chilcayoc,12,15,14,5
+Ayacucho,Sucre,Huacaña,12,15,14,5
+Ayacucho,Sucre,Morcolla,12,15,14,5
+Ayacucho,Sucre,Paico,12,15,14,5
+Ayacucho,Sucre,San Pedro de Larcay,12,15,14,5
+Ayacucho,Sucre,San Salvador de Quije,12,15,14,5
+Ayacucho,Sucre,Santiago de Paucaray,12,15,14,5
+Ayacucho,Sucre,Soras,12,15,14,5
+Ayacucho,Victor Fajardo,Huancapi,12,15,14,5
+Ayacucho,Victor Fajardo,Alcamenca,12,15,14,5
+Ayacucho,Victor Fajardo,Apongo,12,15,14,5
+Ayacucho,Victor Fajardo,Asquipata,12,15,14,5
+Ayacucho,Victor Fajardo,Canaria,12,15,14,5
+Ayacucho,Victor Fajardo,Cayara,12,15,14,5
+Ayacucho,Victor Fajardo,Colca,12,15,14,5
+Ayacucho,Victor Fajardo,Huamanquiquia,12,15,14,5
+Ayacucho,Victor Fajardo,Huancaraylla,12,15,14,5
+Ayacucho,Victor Fajardo,Huaya,12,15,14,5
+Ayacucho,Victor Fajardo,Sarhua,12,15,14,5
+Ayacucho,Victor Fajardo,Vilcanchos,12,15,14,5
+Ayacucho,Vilcas Huaman,Vilcas Huaman,12,15,14,5
+Ayacucho,Vilcas Huaman,Accomarca,12,15,14,5
+Ayacucho,Vilcas Huaman,Carhuanca,12,15,14,5
+Ayacucho,Vilcas Huaman,Concepcion,12,15,14,5
+Ayacucho,Vilcas Huaman,Huambalpa,12,15,14,5
+Ayacucho,Vilcas Huaman,Independencia,12,15,14,5
+Ayacucho,Vilcas Huaman,Saurama,12,15,14,5
+Ayacucho,Vilcas Huaman,Vischongo,12,15,14,5
+Cajamarca,Cajamarca,Cajamarca,12,15,14,5
+Cajamarca,Cajamarca,Asuncion,12,15,14,5
+Cajamarca,Cajamarca,Chetilla,12,15,14,5
+Cajamarca,Cajamarca,Cospan,12,15,14,5
+Cajamarca,Cajamarca,Encañada,12,15,14,5
+Cajamarca,Cajamarca,Jesus,12,15,14,5
+Cajamarca,Cajamarca,Llacanora,12,15,14,5
+Cajamarca,Cajamarca,Los Baños del Inca,12,15,14,5
+Cajamarca,Cajamarca,Magdalena,12,15,14,5
+Cajamarca,Cajamarca,Matara,12,15,14,5
+Cajamarca,Cajamarca,Namora,12,15,14,5
+Cajamarca,Cajamarca,San Juan,12,15,14,5
+Cajamarca,Cajabamba,Cajabamba,12,15,14,5
+Cajamarca,Cajabamba,Cachachi,12,15,14,5
+Cajamarca,Cajabamba,Condebamba,12,15,14,5
+Cajamarca,Cajabamba,Sitacocha,12,15,14,5
+Cajamarca,Celendin,Celendin,12,15,14,5
+Cajamarca,Celendin,Chumuch,12,15,14,5
+Cajamarca,Celendin,Cortegana,12,15,14,5
+Cajamarca,Celendin,Huasmin,12,15,14,5
+Cajamarca,Celendin,Jorge Chavez,12,15,14,5
+Cajamarca,Celendin,José Galvez,12,15,14,5
+Cajamarca,Celendin,Miguel Iglesias,12,15,14,5
+Cajamarca,Celendin,Oxamarca,12,15,14,5
+Cajamarca,Celendin,Sorochuco,12,15,14,5
+Cajamarca,Celendin,Sucre,12,15,14,5
+Cajamarca,Celendin,Utco,12,15,14,5
+Cajamarca,Celendin,La Libertad de Pallan,12,15,14,5
+Cajamarca,Chota,Chota,12,15,14,5
+Cajamarca,Chota,Anguia,12,15,14,5
+Cajamarca,Chota,Chadin,12,15,14,5
+Cajamarca,Chota,Chiguirip,12,15,14,5
+Cajamarca,Chota,Chimban,12,15,14,5
+Cajamarca,Chota,Choropampa,12,15,14,5
+Cajamarca,Chota,Cochabamba,12,15,14,5
+Cajamarca,Chota,Conchan,12,15,14,5
+Cajamarca,Chota,Huambos,12,15,14,5
+Cajamarca,Chota,Lajas,12,15,14,5
+Cajamarca,Chota,Llama,12,15,14,5
+Cajamarca,Chota,Miracosta,12,15,14,5
+Cajamarca,Chota,Paccha,12,15,14,5
+Cajamarca,Chota,Pion,12,15,14,5
+Cajamarca,Chota,Querocoto,12,15,14,5
+Cajamarca,Chota,San Juan de Licupis,12,15,14,5
+Cajamarca,Chota,Tacabamba,12,15,14,5
+Cajamarca,Chota,Tocmoche,12,15,14,5
+Cajamarca,Chota,Chalamarca,12,15,14,5
+Cajamarca,Contumaza,Contumaza,12,15,14,5
+Cajamarca,Contumaza,Chilete,12,15,14,5
+Cajamarca,Contumaza,Cupisnique,12,15,14,5
+Cajamarca,Contumaza,Guzmango,12,15,14,5
+Cajamarca,Contumaza,San Benito,12,15,14,5
+Cajamarca,Contumaza,Santa Cruz de Toledo,12,15,14,5
+Cajamarca,Contumaza,Tantarica,12,15,14,5
+Cajamarca,Contumaza,Yonan,12,15,14,5
+Cajamarca,Cutervo,Cutervo,12,15,14,5
+Cajamarca,Cutervo,Callayuc,12,15,14,5
+Cajamarca,Cutervo,Choros,12,15,14,5
+Cajamarca,Cutervo,Cujillo,12,15,14,5
+Cajamarca,Cutervo,La Ramada,12,15,14,5
+Cajamarca,Cutervo,Pimpingos,12,15,14,5
+Cajamarca,Cutervo,Querocotillo,12,15,14,5
+Cajamarca,Cutervo,San Andrés de Cutervo,12,15,14,5
+Cajamarca,Cutervo,San Juan de Cutervo,12,15,14,5
+Cajamarca,Cutervo,San Luis de Lucma,12,15,14,5
+Cajamarca,Cutervo,Santa Cruz,12,15,14,5
+Cajamarca,Cutervo,Santo Domingo de la Capilla,12,15,14,5
+Cajamarca,Cutervo,Santo Tomas,12,15,14,5
+Cajamarca,Cutervo,Socota,12,15,14,5
+Cajamarca,Cutervo,Toribio Casanova,12,15,14,5
+Cajamarca,Hualgayoc,Bambamarca,12,15,14,5
+Cajamarca,Hualgayoc,Chugur,12,15,14,5
+Cajamarca,Hualgayoc,Hualgayoc,12,15,14,5
+Cajamarca,Jaén,Jaén,12,15,14,5
+Cajamarca,Jaén,Bellavista,12,15,14,5
+Cajamarca,Jaén,Chontali,12,15,14,5
+Cajamarca,Jaén,Colasay,12,15,14,5
+Cajamarca,Jaén,Huabal,12,15,14,5
+Cajamarca,Jaén,Las Pirias,12,15,14,5
+Cajamarca,Jaén,Pomahuaca,12,15,14,5
+Cajamarca,Jaén,Pucara,12,15,14,5
+Cajamarca,Jaén,Sallique,12,15,14,5
+Cajamarca,Jaén,San Felipe,12,15,14,5
+Cajamarca,Jaén,San José del Alto,12,15,14,5
+Cajamarca,Jaén,Santa Rosa,12,15,14,5
+Cajamarca,San Ignacio,San Ignacio,12,15,14,5
+Cajamarca,San Ignacio,Chirinos,12,15,14,5
+Cajamarca,San Ignacio,Huarango,12,15,14,5
+Cajamarca,San Ignacio,La Coipa,12,15,14,5
+Cajamarca,San Ignacio,Namballe,12,15,14,5
+Cajamarca,San Ignacio,San José de Lourdes,12,15,14,5
+Cajamarca,San Ignacio,Tabaconas,12,15,14,5
+Cajamarca,San Marcos,Pedro Galvez,12,15,14,5
+Cajamarca,San Marcos,Chancay,12,15,14,5
+Cajamarca,San Marcos,Eduardo Villanueva,12,15,14,5
+Cajamarca,San Marcos,Gregorio Pita,12,15,14,5
+Cajamarca,San Marcos,Ichocan,12,15,14,5
+Cajamarca,San Marcos,José Manuel Quiroz,12,15,14,5
+Cajamarca,San Marcos,José Sabogal,12,15,14,5
+Cajamarca,San Miguel,San Miguel,12,15,14,5
+Cajamarca,San Miguel,Bolivar,12,15,14,5
+Cajamarca,San Miguel,Calquis,12,15,14,5
+Cajamarca,San Miguel,Catilluc,12,15,14,5
+Cajamarca,San Miguel,El Prado,12,15,14,5
+Cajamarca,San Miguel,La Florida,12,15,14,5
+Cajamarca,San Miguel,Llapa,12,15,14,5
+Cajamarca,San Miguel,Nanchoc,12,15,14,5
+Cajamarca,San Miguel,Niepos,12,15,14,5
+Cajamarca,San Miguel,San Gregorio,12,15,14,5
+Cajamarca,San Miguel,San Silvestre de Cochan,12,15,14,5
+Cajamarca,San Miguel,Tongod,12,15,14,5
+Cajamarca,San Miguel,Union Agua Blanca,12,15,14,5
+Cajamarca,San Pablo,San Pablo,12,15,14,5
+Cajamarca,San Pablo,San Bernardino,12,15,14,5
+Cajamarca,San Pablo,San Luis,12,15,14,5
+Cajamarca,San Pablo,Tumbaden,12,15,14,5
+Cajamarca,Santa Cruz,Santa Cruz,12,15,14,5
+Cajamarca,Santa Cruz,Andabamba,12,15,14,5
+Cajamarca,Santa Cruz,Catache,12,15,14,5
+Cajamarca,Santa Cruz,Chancaybaños,12,15,14,5
+Cajamarca,Santa Cruz,La Esperanza,12,15,14,5
+Cajamarca,Santa Cruz,Ninabamba,12,15,14,5
+Cajamarca,Santa Cruz,Pulan,12,15,14,5
+Cajamarca,Santa Cruz,Saucepampa,12,15,14,5
+Cajamarca,Santa Cruz,Sexi,12,15,14,5
+Cajamarca,Santa Cruz,Uticyacu,12,15,14,5
+Cajamarca,Santa Cruz,Yauyucan,12,15,14,5
+Callao,Prov. Const. del Callao,Callao,12,15,14,5
+Callao,Prov. Const. del Callao,Bellavista,12,15,14,5
+Callao,Prov. Const. del Callao,Carmen de la Legua Reynoso,12,15,14,5
+Callao,Prov. Const. del Callao,La Perla,12,15,14,5
+Callao,Prov. Const. del Callao,La Punta,12,15,14,5
+Callao,Prov. Const. del Callao,Ventanilla,12,15,14,5
+Callao,Prov. Const. del Callao,Mi Peru,12,15,14,5
+Cusco,Cusco,Cusco,12,15,14,5
+Cusco,Cusco,Ccorca,12,15,14,5
+Cusco,Cusco,Poroy,12,15,14,5
+Cusco,Cusco,San Jeronimo,12,15,14,5
+Cusco,Cusco,San Sebastian,12,15,14,5
+Cusco,Cusco,Santiago,12,15,14,5
+Cusco,Cusco,Saylla,12,15,14,5
+Cusco,Cusco,Wanchaq,12,15,14,5
+Cusco,Acomayo,Acomayo,12,15,14,5
+Cusco,Acomayo,Acopia,12,15,14,5
+Cusco,Acomayo,Acos,12,15,14,5
+Cusco,Acomayo,Mosoc Llacta,12,15,14,5
+Cusco,Acomayo,Pomacanchi,12,15,14,5
+Cusco,Acomayo,Rondocan,12,15,14,5
+Cusco,Acomayo,Sangarara,12,15,14,5
+Cusco,Anta,Anta,12,15,14,5
+Cusco,Anta,Ancahuasi,12,15,14,5
+Cusco,Anta,Cachimayo,12,15,14,5
+Cusco,Anta,Chinchaypujio,12,15,14,5
+Cusco,Anta,Huarocondo,12,15,14,5
+Cusco,Anta,Limatambo,12,15,14,5
+Cusco,Anta,Mollepata,12,15,14,5
+Cusco,Anta,Pucyura,12,15,14,5
+Cusco,Anta,Zurite,12,15,14,5
+Cusco,Calca,Calca,12,15,14,5
+Cusco,Calca,Coya,12,15,14,5
+Cusco,Calca,Lamay,12,15,14,5
+Cusco,Calca,Lares,12,15,14,5
+Cusco,Calca,Pisac,12,15,14,5
+Cusco,Calca,San Salvador,12,15,14,5
+Cusco,Calca,Taray,12,15,14,5
+Cusco,Calca,Yanatile,12,15,14,5
+Cusco,Canas,Yanaoca,12,15,14,5
+Cusco,Canas,Checca,12,15,14,5
+Cusco,Canas,Kunturkanki,12,15,14,5
+Cusco,Canas,Langui,12,15,14,5
+Cusco,Canas,Layo,12,15,14,5
+Cusco,Canas,Pampamarca,12,15,14,5
+Cusco,Canas,Quehue,12,15,14,5
+Cusco,Canas,Tupac Amaru,12,15,14,5
+Cusco,Canchis,Sicuani,12,15,14,5
+Cusco,Canchis,Checacupe,12,15,14,5
+Cusco,Canchis,Combapata,12,15,14,5
+Cusco,Canchis,Marangani,12,15,14,5
+Cusco,Canchis,Pitumarca,12,15,14,5
+Cusco,Canchis,San Pablo,12,15,14,5
+Cusco,Canchis,San Pedro,12,15,14,5
+Cusco,Canchis,Tinta,12,15,14,5
+Cusco,Chumbivilcas,Santo Tomas,12,15,14,5
+Cusco,Chumbivilcas,Capacmarca,12,15,14,5
+Cusco,Chumbivilcas,Chamaca,12,15,14,5
+Cusco,Chumbivilcas,Colquemarca,12,15,14,5
+Cusco,Chumbivilcas,Livitaca,12,15,14,5
+Cusco,Chumbivilcas,Llusco,12,15,14,5
+Cusco,Chumbivilcas,Quiñota,12,15,14,5
+Cusco,Chumbivilcas,Velille,12,15,14,5
+Cusco,Espinar,Espinar,12,15,14,5
+Cusco,Espinar,Condoroma,12,15,14,5
+Cusco,Espinar,Coporaque,12,15,14,5
+Cusco,Espinar,Ocoruro,12,15,14,5
+Cusco,Espinar,Pallpata,12,15,14,5
+Cusco,Espinar,Pichigua,12,15,14,5
+Cusco,Espinar,Suyckutambo,12,15,14,5
+Cusco,Espinar,Alto Pichigua,12,15,14,5
+Cusco,La Convencion,Santa Ana,12,15,14,5
+Cusco,La Convencion,Echarate,12,15,14,5
+Cusco,La Convencion,Huayopata,12,15,14,5
+Cusco,La Convencion,Maranura,12,15,14,5
+Cusco,La Convencion,Ocobamba,12,15,14,5
+Cusco,La Convencion,Quellouno,12,15,14,5
+Cusco,La Convencion,Kimbiri,12,15,14,5
+Cusco,La Convencion,Santa Teresa,12,15,14,5
+Cusco,La Convencion,Vilcabamba,12,15,14,5
+Cusco,La Convencion,Pichari,12,15,14,5
+Cusco,La Convencion,Inkawasi,12,15,14,5
+Cusco,La Convencion,Villa Virgen,12,15,14,5
+Cusco,La Convencion,Villa Kintiarina,12,15,14,5
+Cusco,Paruro,Paruro,12,15,14,5
+Cusco,Paruro,Accha,12,15,14,5
+Cusco,Paruro,Ccapi,12,15,14,5
+Cusco,Paruro,Colcha,12,15,14,5
+Cusco,Paruro,Huanoquite,12,15,14,5
+Cusco,Paruro,Omacha,12,15,14,5
+Cusco,Paruro,Paccaritambo,12,15,14,5
+Cusco,Paruro,Pillpinto,12,15,14,5
+Cusco,Paruro,Yaurisque,12,15,14,5
+Cusco,Paucartambo,Paucartambo,12,15,14,5
+Cusco,Paucartambo,Caicay,12,15,14,5
+Cusco,Paucartambo,Challabamba,12,15,14,5
+Cusco,Paucartambo,Colquepata,12,15,14,5
+Cusco,Paucartambo,Huancarani,12,15,14,5
+Cusco,Paucartambo,Kosñipata,12,15,14,5
+Cusco,Quispicanchi,Urcos,12,15,14,5
+Cusco,Quispicanchi,Andahuaylillas,12,15,14,5
+Cusco,Quispicanchi,Camanti,12,15,14,5
+Cusco,Quispicanchi,Ccarhuayo,12,15,14,5
+Cusco,Quispicanchi,Ccatca,12,15,14,5
+Cusco,Quispicanchi,Cusipata,12,15,14,5
+Cusco,Quispicanchi,Huaro,12,15,14,5
+Cusco,Quispicanchi,Lucre,12,15,14,5
+Cusco,Quispicanchi,Marcapata,12,15,14,5
+Cusco,Quispicanchi,Ocongate,12,15,14,5
+Cusco,Quispicanchi,Oropesa,12,15,14,5
+Cusco,Quispicanchi,Quiquijana,12,15,14,5
+Cusco,Urubamba,Urubamba,12,15,14,5
+Cusco,Urubamba,Chinchero,12,15,14,5
+Cusco,Urubamba,Huayllabamba,12,15,14,5
+Cusco,Urubamba,Machupicchu,12,15,14,5
+Cusco,Urubamba,Maras,12,15,14,5
+Cusco,Urubamba,Ollantaytambo,12,15,14,5
+Cusco,Urubamba,Yucay,12,15,14,5
+Huancavelica,Huancavelica,Huancavelica,12,15,14,5
+Huancavelica,Huancavelica,Acobambilla,12,15,14,5
+Huancavelica,Huancavelica,Acoria,12,15,14,5
+Huancavelica,Huancavelica,Conayca,12,15,14,5
+Huancavelica,Huancavelica,Cuenca,12,15,14,5
+Huancavelica,Huancavelica,Huachocolpa,12,15,14,5
+Huancavelica,Huancavelica,Huayllahuara,12,15,14,5
+Huancavelica,Huancavelica,Izcuchaca,12,15,14,5
+Huancavelica,Huancavelica,Laria,12,15,14,5
+Huancavelica,Huancavelica,Manta,12,15,14,5
+Huancavelica,Huancavelica,Mariscal Caceres,12,15,14,5
+Huancavelica,Huancavelica,Moya,12,15,14,5
+Huancavelica,Huancavelica,Nuevo Occoro,12,15,14,5
+Huancavelica,Huancavelica,Palca,12,15,14,5
+Huancavelica,Huancavelica,Pilchaca,12,15,14,5
+Huancavelica,Huancavelica,Vilca,12,15,14,5
+Huancavelica,Huancavelica,Yauli,12,15,14,5
+Huancavelica,Huancavelica,Ascension,12,15,14,5
+Huancavelica,Huancavelica,Huando,12,15,14,5
+Huancavelica,Acobamba,Acobamba,12,15,14,5
+Huancavelica,Acobamba,Andabamba,12,15,14,5
+Huancavelica,Acobamba,Anta,12,15,14,5
+Huancavelica,Acobamba,Caja,12,15,14,5
+Huancavelica,Acobamba,Marcas,12,15,14,5
+Huancavelica,Acobamba,Paucara,12,15,14,5
+Huancavelica,Acobamba,Pomacocha,12,15,14,5
+Huancavelica,Acobamba,Rosario,12,15,14,5
+Huancavelica,Angaraes,Lircay,12,15,14,5
+Huancavelica,Angaraes,Anchonga,12,15,14,5
+Huancavelica,Angaraes,Callanmarca,12,15,14,5
+Huancavelica,Angaraes,Ccochaccasa,12,15,14,5
+Huancavelica,Angaraes,Chincho,12,15,14,5
+Huancavelica,Angaraes,Congalla,12,15,14,5
+Huancavelica,Angaraes,Huanca-Huanca,12,15,14,5
+Huancavelica,Angaraes,Huayllay Grande,12,15,14,5
+Huancavelica,Angaraes,Julcamarca,12,15,14,5
+Huancavelica,Angaraes,San Antonio de Antaparco,12,15,14,5
+Huancavelica,Angaraes,Santo Tomas de Pata,12,15,14,5
+Huancavelica,Angaraes,Secclla,12,15,14,5
+Huancavelica,Castrovirreyna,Castrovirreyna,12,15,14,5
+Huancavelica,Castrovirreyna,Arma,12,15,14,5
+Huancavelica,Castrovirreyna,Aurahua,12,15,14,5
+Huancavelica,Castrovirreyna,Capillas,12,15,14,5
+Huancavelica,Castrovirreyna,Chupamarca,12,15,14,5
+Huancavelica,Castrovirreyna,Cocas,12,15,14,5
+Huancavelica,Castrovirreyna,Huachos,12,15,14,5
+Huancavelica,Castrovirreyna,Huamatambo,12,15,14,5
+Huancavelica,Castrovirreyna,Mollepampa,12,15,14,5
+Huancavelica,Castrovirreyna,San Juan,12,15,14,5
+Huancavelica,Castrovirreyna,Santa Ana,12,15,14,5
+Huancavelica,Castrovirreyna,Tantara,12,15,14,5
+Huancavelica,Castrovirreyna,Ticrapo,12,15,14,5
+Huancavelica,Churcampa,Churcampa,12,15,14,5
+Huancavelica,Churcampa,Anco,12,15,14,5
+Huancavelica,Churcampa,Chinchihuasi,12,15,14,5
+Huancavelica,Churcampa,El Carmen,12,15,14,5
+Huancavelica,Churcampa,La Merced,12,15,14,5
+Huancavelica,Churcampa,Locroja,12,15,14,5
+Huancavelica,Churcampa,Paucarbamba,12,15,14,5
+Huancavelica,Churcampa,San Miguel de Mayocc,12,15,14,5
+Huancavelica,Churcampa,San Pedro de Coris,12,15,14,5
+Huancavelica,Churcampa,Pachamarca,12,15,14,5
+Huancavelica,Churcampa,Cosme,12,15,14,5
+Huancavelica,Huaytara,Huaytara,12,15,14,5
+Huancavelica,Huaytara,Ayavi,12,15,14,5
+Huancavelica,Huaytara,Cordova,12,15,14,5
+Huancavelica,Huaytara,Huayacundo Arma,12,15,14,5
+Huancavelica,Huaytara,Laramarca,12,15,14,5
+Huancavelica,Huaytara,Ocoyo,12,15,14,5
+Huancavelica,Huaytara,Pilpichaca,12,15,14,5
+Huancavelica,Huaytara,Querco,12,15,14,5
+Huancavelica,Huaytara,Quito-Arma,12,15,14,5
+Huancavelica,Huaytara,San Antonio de Cusicancha,12,15,14,5
+Huancavelica,Huaytara,San Francisco de Sangayaico,12,15,14,5
+Huancavelica,Huaytara,San Isidro,12,15,14,5
+Huancavelica,Huaytara,Santiago de Chocorvos,12,15,14,5
+Huancavelica,Huaytara,Santiago de Quirahuara,12,15,14,5
+Huancavelica,Huaytara,Santo Domingo de Capillas,12,15,14,5
+Huancavelica,Huaytara,Tambo,12,15,14,5
+Huancavelica,Tayacaja,Pampas,12,15,14,5
+Huancavelica,Tayacaja,Acostambo,12,15,14,5
+Huancavelica,Tayacaja,Acraquia,12,15,14,5
+Huancavelica,Tayacaja,Ahuaycha,12,15,14,5
+Huancavelica,Tayacaja,Colcabamba,12,15,14,5
+Huancavelica,Tayacaja,Daniel Hernandez,12,15,14,5
+Huancavelica,Tayacaja,Huachocolpa,12,15,14,5
+Huancavelica,Tayacaja,Huaribamba,12,15,14,5
+Huancavelica,Tayacaja,Ñahuimpuquio,12,15,14,5
+Huancavelica,Tayacaja,Pazos,12,15,14,5
+Huancavelica,Tayacaja,Quishuar,12,15,14,5
+Huancavelica,Tayacaja,Salcabamba,12,15,14,5
+Huancavelica,Tayacaja,Salcahuasi,12,15,14,5
+Huancavelica,Tayacaja,San Marcos de Rocchac,12,15,14,5
+Huancavelica,Tayacaja,Surcubamba,12,15,14,5
+Huancavelica,Tayacaja,Tintay Puncu,12,15,14,5
+Huancavelica,Tayacaja,Quichuas,12,15,14,5
+Huancavelica,Tayacaja,Andaymarca,12,15,14,5
+Huancavelica,Tayacaja,Roble,12,15,14,5
+Huancavelica,Tayacaja,Pichos,12,15,14,5
+Huanuco,Huanuco,Huanuco,12,15,14,5
+Huanuco,Huanuco,Amarilis,12,15,14,5
+Huanuco,Huanuco,Chinchao,12,15,14,5
+Huanuco,Huanuco,Churubamba,12,15,14,5
+Huanuco,Huanuco,Margos,12,15,14,5
+Huanuco,Huanuco,Quisqui (Kichki),12,15,14,5
+Huanuco,Huanuco,San Francisco de Cayran,12,15,14,5
+Huanuco,Huanuco,San Pedro de Chaulan,12,15,14,5
+Huanuco,Huanuco,Santa Maria del Valle,12,15,14,5
+Huanuco,Huanuco,Yarumayo,12,15,14,5
+Huanuco,Huanuco,Pillco Marca,12,15,14,5
+Huanuco,Huanuco,Yacus,12,15,14,5
+Huanuco,Huanuco,San Pablo de Pillao,12,15,14,5
+Huanuco,Ambo,Ambo,12,15,14,5
+Huanuco,Ambo,Cayna,12,15,14,5
+Huanuco,Ambo,Colpas,12,15,14,5
+Huanuco,Ambo,Conchamarca,12,15,14,5
+Huanuco,Ambo,Huacar,12,15,14,5
+Huanuco,Ambo,San Francisco,12,15,14,5
+Huanuco,Ambo,San Rafael,12,15,14,5
+Huanuco,Ambo,Tomay Kichwa,12,15,14,5
+Huanuco,Dos de Mayo,La Union,12,15,14,5
+Huanuco,Dos de Mayo,Chuquis,12,15,14,5
+Huanuco,Dos de Mayo,Marias,12,15,14,5
+Huanuco,Dos de Mayo,Pachas,12,15,14,5
+Huanuco,Dos de Mayo,Quivilla,12,15,14,5
+Huanuco,Dos de Mayo,Ripan,12,15,14,5
+Huanuco,Dos de Mayo,Shunqui,12,15,14,5
+Huanuco,Dos de Mayo,Sillapata,12,15,14,5
+Huanuco,Dos de Mayo,Yanas,12,15,14,5
+Huanuco,Huacaybamba,Huacaybamba,12,15,14,5
+Huanuco,Huacaybamba,Canchabamba,12,15,14,5
+Huanuco,Huacaybamba,Cochabamba,12,15,14,5
+Huanuco,Huacaybamba,Pinra,12,15,14,5
+Huanuco,Huamalies,Llata,12,15,14,5
+Huanuco,Huamalies,Arancay,12,15,14,5
+Huanuco,Huamalies,Chavin de Pariarca,12,15,14,5
+Huanuco,Huamalies,Jacas Grande,12,15,14,5
+Huanuco,Huamalies,Jircan,12,15,14,5
+Huanuco,Huamalies,Miraflores,12,15,14,5
+Huanuco,Huamalies,Monzon,12,15,14,5
+Huanuco,Huamalies,Punchao,12,15,14,5
+Huanuco,Huamalies,Puños,12,15,14,5
+Huanuco,Huamalies,Singa,12,15,14,5
+Huanuco,Huamalies,Tantamayo,12,15,14,5
+Huanuco,Leoncio Prado,Rupa-Rupa,12,15,14,5
+Huanuco,Leoncio Prado,Daniel Alomia Robles,12,15,14,5
+Huanuco,Leoncio Prado,Hermilio Valdizan,12,15,14,5
+Huanuco,Leoncio Prado,José Crespo y Castillo,12,15,14,5
+Huanuco,Leoncio Prado,Luyando,12,15,14,5
+Huanuco,Leoncio Prado,Mariano Damaso Beraun,12,15,14,5
+Huanuco,Leoncio Prado,Pucayacu,12,15,14,5
+Huanuco,Leoncio Prado,Castillo Grande,12,15,14,5
+Huanuco,Marañon,Huacrachuco,12,15,14,5
+Huanuco,Marañon,Cholon,12,15,14,5
+Huanuco,Marañon,San Buenaventura,12,15,14,5
+Huanuco,Marañon,La Morada,12,15,14,5
+Huanuco,Marañon,Santa Rosa de Alto Yanajanca,12,15,14,5
+Huanuco,Pachitea,Panao,12,15,14,5
+Huanuco,Pachitea,Chaglla,12,15,14,5
+Huanuco,Pachitea,Molino,12,15,14,5
+Huanuco,Pachitea,Umari,12,15,14,5
+Huanuco,Puerto Inca,Puerto Inca,12,15,14,5
+Huanuco,Puerto Inca,Codo del Pozuzo,12,15,14,5
+Huanuco,Puerto Inca,Honoria,12,15,14,5
+Huanuco,Puerto Inca,Tournavista,12,15,14,5
+Huanuco,Puerto Inca,Yuyapichis,12,15,14,5
+Huanuco,Lauricocha ,Jesus,12,15,14,5
+Huanuco,Lauricocha ,Baños,12,15,14,5
+Huanuco,Lauricocha ,Jivia,12,15,14,5
+Huanuco,Lauricocha ,Queropalca,12,15,14,5
+Huanuco,Lauricocha ,Rondos,12,15,14,5
+Huanuco,Lauricocha ,San Francisco de Asis,12,15,14,5
+Huanuco,Lauricocha ,San Miguel de Cauri,12,15,14,5
+Huanuco,Yarowilca ,Chavinillo,12,15,14,5
+Huanuco,Yarowilca ,Cahuac,12,15,14,5
+Huanuco,Yarowilca ,Chacabamba,12,15,14,5
+Huanuco,Yarowilca ,Aparicio Pomares,12,15,14,5
+Huanuco,Yarowilca ,Jacas Chico,12,15,14,5
+Huanuco,Yarowilca ,Obas,12,15,14,5
+Huanuco,Yarowilca ,Pampamarca,12,15,14,5
+Huanuco,Yarowilca ,Choras,12,15,14,5
+Ica,Ica ,Ica,12,15,14,5
+Ica,Ica ,La Tinguiña,12,15,14,5
+Ica,Ica ,Los Aquijes,12,15,14,5
+Ica,Ica ,Ocucaje,12,15,14,5
+Ica,Ica ,Pachacutec,12,15,14,5
+Ica,Ica ,Parcona,12,15,14,5
+Ica,Ica ,Pueblo Nuevo,12,15,14,5
+Ica,Ica ,Salas,12,15,14,5
+Ica,Ica ,San José de Los Molinos,12,15,14,5
+Ica,Ica ,San Juan Bautista,12,15,14,5
+Ica,Ica ,Santiago,12,15,14,5
+Ica,Ica ,Subtanjalla,12,15,14,5
+Ica,Ica ,Tate,12,15,14,5
+Ica,Ica ,Yauca del Rosario,12,15,14,5
+Ica,Chincha ,Chincha Alta,12,15,14,5
+Ica,Chincha ,Alto Laran,12,15,14,5
+Ica,Chincha ,Chavin,12,15,14,5
+Ica,Chincha ,Chincha Baja,12,15,14,5
+Ica,Chincha ,El Carmen,12,15,14,5
+Ica,Chincha ,Grocio Prado,12,15,14,5
+Ica,Chincha ,Pueblo Nuevo,12,15,14,5
+Ica,Chincha ,San Juan de Yanac,12,15,14,5
+Ica,Chincha ,San Pedro de Huacarpana,12,15,14,5
+Ica,Chincha ,Sunampe,12,15,14,5
+Ica,Chincha ,Tambo de Mora,12,15,14,5
+Ica,Nasca ,Nasca,12,15,14,5
+Ica,Nasca ,Changuillo,12,15,14,5
+Ica,Nasca ,El Ingenio,12,15,14,5
+Ica,Nasca ,Marcona,12,15,14,5
+Ica,Nasca ,Vista Alegre,12,15,14,5
+Ica,Palpa ,Palpa,12,15,14,5
+Ica,Palpa ,Llipata,12,15,14,5
+Ica,Palpa ,Rio Grande,12,15,14,5
+Ica,Palpa ,Santa Cruz,12,15,14,5
+Ica,Palpa ,Tibillo,12,15,14,5
+Ica,Pisco ,Pisco,12,15,14,5
+Ica,Pisco ,Huancano,12,15,14,5
+Ica,Pisco ,Humay,12,15,14,5
+Ica,Pisco ,Independencia,12,15,14,5
+Ica,Pisco ,Paracas,12,15,14,5
+Ica,Pisco ,San Andrés,12,15,14,5
+Ica,Pisco ,San Clemente,12,15,14,5
+Ica,Pisco ,Tupac Amaru Inca,12,15,14,5
+Junin,Huancayo ,Huancayo,12,15,14,5
+Junin,Huancayo ,Carhuacallanga,12,15,14,5
+Junin,Huancayo ,Chacapampa,12,15,14,5
+Junin,Huancayo ,Chicche,12,15,14,5
+Junin,Huancayo ,Chilca,12,15,14,5
+Junin,Huancayo ,Chongos Alto,12,15,14,5
+Junin,Huancayo ,Chupuro,12,15,14,5
+Junin,Huancayo ,Colca,12,15,14,5
+Junin,Huancayo ,Cullhuas,12,15,14,5
+Junin,Huancayo ,El Tambo,12,15,14,5
+Junin,Huancayo ,Huacrapuquio,12,15,14,5
+Junin,Huancayo ,Hualhuas,12,15,14,5
+Junin,Huancayo ,Huancan,12,15,14,5
+Junin,Huancayo ,Huasicancha,12,15,14,5
+Junin,Huancayo ,Huayucachi,12,15,14,5
+Junin,Huancayo ,Ingenio,12,15,14,5
+Junin,Huancayo ,Pariahuanca,12,15,14,5
+Junin,Huancayo ,Pilcomayo,12,15,14,5
+Junin,Huancayo ,Pucara,12,15,14,5
+Junin,Huancayo ,Quichuay,12,15,14,5
+Junin,Huancayo ,Quilcas,12,15,14,5
+Junin,Huancayo ,San Agustin,12,15,14,5
+Junin,Huancayo ,San Jeronimo de Tunan,12,15,14,5
+Junin,Huancayo ,Saño,12,15,14,5
+Junin,Huancayo ,Sapallanga,12,15,14,5
+Junin,Huancayo ,Sicaya,12,15,14,5
+Junin,Huancayo ,Santo Domingo de Acobamba,12,15,14,5
+Junin,Huancayo ,Viques,12,15,14,5
+Junin,Concepcion ,Concepcion,12,15,14,5
+Junin,Concepcion ,Aco,12,15,14,5
+Junin,Concepcion ,Andamarca,12,15,14,5
+Junin,Concepcion ,Chambara,12,15,14,5
+Junin,Concepcion ,Cochas,12,15,14,5
+Junin,Concepcion ,Comas,12,15,14,5
+Junin,Concepcion ,Heroinas Toledo,12,15,14,5
+Junin,Concepcion ,Manzanares,12,15,14,5
+Junin,Concepcion ,Mariscal Castilla,12,15,14,5
+Junin,Concepcion ,Matahuasi,12,15,14,5
+Junin,Concepcion ,Mito,12,15,14,5
+Junin,Concepcion ,Nueve de Julio,12,15,14,5
+Junin,Concepcion ,Orcotuna,12,15,14,5
+Junin,Concepcion ,San José de Quero,12,15,14,5
+Junin,Concepcion ,Santa Rosa de Ocopa,12,15,14,5
+Junin,Chanchamayo ,Chanchamayo,12,15,14,5
+Junin,Chanchamayo ,Perene,12,15,14,5
+Junin,Chanchamayo ,Pichanaqui,12,15,14,5
+Junin,Chanchamayo ,San Luis de Shuaro,12,15,14,5
+Junin,Chanchamayo ,San Ramon,12,15,14,5
+Junin,Chanchamayo ,Vitoc,12,15,14,5
+Junin,Jauja ,Jauja,12,15,14,5
+Junin,Jauja ,Acolla,12,15,14,5
+Junin,Jauja ,Apata,12,15,14,5
+Junin,Jauja ,Ataura,12,15,14,5
+Junin,Jauja ,Canchayllo,12,15,14,5
+Junin,Jauja ,Curicaca,12,15,14,5
+Junin,Jauja ,El Mantaro,12,15,14,5
+Junin,Jauja ,Huamali,12,15,14,5
+Junin,Jauja ,Huaripampa,12,15,14,5
+Junin,Jauja ,Huertas,12,15,14,5
+Junin,Jauja ,Janjaillo,12,15,14,5
+Junin,Jauja ,Julcan,12,15,14,5
+Junin,Jauja ,Leonor Ordoñez,12,15,14,5
+Junin,Jauja ,Llocllapampa,12,15,14,5
+Junin,Jauja ,Marco,12,15,14,5
+Junin,Jauja ,Masma,12,15,14,5
+Junin,Jauja ,Masma Chicche,12,15,14,5
+Junin,Jauja ,Molinos,12,15,14,5
+Junin,Jauja ,Monobamba,12,15,14,5
+Junin,Jauja ,Muqui,12,15,14,5
+Junin,Jauja ,Muquiyauyo,12,15,14,5
+Junin,Jauja ,Paca,12,15,14,5
+Junin,Jauja ,Paccha,12,15,14,5
+Junin,Jauja ,Pancan,12,15,14,5
+Junin,Jauja ,Parco,12,15,14,5
+Junin,Jauja ,Pomacancha,12,15,14,5
+Junin,Jauja ,Ricran,12,15,14,5
+Junin,Jauja ,San Lorenzo,12,15,14,5
+Junin,Jauja ,San Pedro de Chunan,12,15,14,5
+Junin,Jauja ,Sausa,12,15,14,5
+Junin,Jauja ,Sincos,12,15,14,5
+Junin,Jauja ,Tunan Marca,12,15,14,5
+Junin,Jauja ,Yauli,12,15,14,5
+Junin,Jauja ,Yauyos,12,15,14,5
+Junin,Junin ,Junin,12,15,14,5
+Junin,Junin ,Carhuamayo,12,15,14,5
+Junin,Junin ,Ondores,12,15,14,5
+Junin,Junin ,Ulcumayo,12,15,14,5
+Junin,Satipo ,Satipo,12,15,14,5
+Junin,Satipo ,Coviriali,12,15,14,5
+Junin,Satipo ,Llaylla,12,15,14,5
+Junin,Satipo ,Mazamari,12,15,14,5
+Junin,Satipo ,Pampa Hermosa,12,15,14,5
+Junin,Satipo ,Pangoa,12,15,14,5
+Junin,Satipo ,Rio Negro,12,15,14,5
+Junin,Satipo ,Rio Tambo,12,15,14,5
+Junin,Satipo ,Vizcatan del Ene,12,15,14,5
+Junin,Tarma ,Tarma,12,15,14,5
+Junin,Tarma ,Acobamba,12,15,14,5
+Junin,Tarma ,Huaricolca,12,15,14,5
+Junin,Tarma ,Huasahuasi,12,15,14,5
+Junin,Tarma ,La Union,12,15,14,5
+Junin,Tarma ,Palca,12,15,14,5
+Junin,Tarma ,Palcamayo,12,15,14,5
+Junin,Tarma ,San Pedro de Cajas,12,15,14,5
+Junin,Tarma ,Tapo,12,15,14,5
+Junin,Yauli ,La Oroya,12,15,14,5
+Junin,Yauli ,Chacapalpa,12,15,14,5
+Junin,Yauli ,Huay-Huay,12,15,14,5
+Junin,Yauli ,Marcapomacocha,12,15,14,5
+Junin,Yauli ,Morococha,12,15,14,5
+Junin,Yauli ,Paccha,12,15,14,5
+Junin,Yauli ,Santa Barbara de Carhuacayan,12,15,14,5
+Junin,Yauli ,Santa Rosa de Sacco,12,15,14,5
+Junin,Yauli ,Suitucancha,12,15,14,5
+Junin,Yauli ,Yauli,12,15,14,5
+Junin,Chupaca ,Chupaca,12,15,14,5
+Junin,Chupaca ,Ahuac,12,15,14,5
+Junin,Chupaca ,Chongos Bajo,12,15,14,5
+Junin,Chupaca ,Huachac,12,15,14,5
+Junin,Chupaca ,Huamancaca Chico,12,15,14,5
+Junin,Chupaca ,San Juan de Iscos,12,15,14,5
+Junin,Chupaca ,San Juan de Jarpa,12,15,14,5
+Junin,Chupaca ,Tres de Diciembre,12,15,14,5
+Junin,Chupaca ,Yanacancha,12,15,14,5
+La Libertad,Trujillo ,Trujillo,12,15,14,5
+La Libertad,Trujillo ,El Porvenir,12,15,14,5
+La Libertad,Trujillo ,Florencia de Mora,12,15,14,5
+La Libertad,Trujillo ,Huanchaco,12,15,14,5
+La Libertad,Trujillo ,La Esperanza,12,15,14,5
+La Libertad,Trujillo ,Laredo,12,15,14,5
+La Libertad,Trujillo ,Moche,12,15,14,5
+La Libertad,Trujillo ,Poroto,12,15,14,5
+La Libertad,Trujillo ,Salaverry,12,15,14,5
+La Libertad,Trujillo ,Simbal,12,15,14,5
+La Libertad,Trujillo ,Victor Larco Herrera,12,15,14,5
+La Libertad,Ascope ,Ascope,12,15,14,5
+La Libertad,Ascope ,Chicama,12,15,14,5
+La Libertad,Ascope ,Chocope,12,15,14,5
+La Libertad,Ascope ,Magdalena de Cao,12,15,14,5
+La Libertad,Ascope ,Paijan,12,15,14,5
+La Libertad,Ascope ,Razuri,12,15,14,5
+La Libertad,Ascope ,Santiago de Cao,12,15,14,5
+La Libertad,Ascope ,Casa Grande,12,15,14,5
+La Libertad,Bolivar ,Bolivar,12,15,14,5
+La Libertad,Bolivar ,Bambamarca,12,15,14,5
+La Libertad,Bolivar ,Condormarca,12,15,14,5
+La Libertad,Bolivar ,Longotea,12,15,14,5
+La Libertad,Bolivar ,Uchumarca,12,15,14,5
+La Libertad,Bolivar ,Ucuncha,12,15,14,5
+La Libertad,Chepén ,Chepen,12,15,14,5
+La Libertad,Chepén ,Pacanga,12,15,14,5
+La Libertad,Chepén ,Pueblo Nuevo,12,15,14,5
+La Libertad,Julcan ,Julcan,12,15,14,5
+La Libertad,Julcan ,Calamarca,12,15,14,5
+La Libertad,Julcan ,Carabamba,12,15,14,5
+La Libertad,Julcan ,Huaso,12,15,14,5
+La Libertad,Otuzco ,Otuzco,12,15,14,5
+La Libertad,Otuzco ,Agallpampa,12,15,14,5
+La Libertad,Otuzco ,Charat,12,15,14,5
+La Libertad,Otuzco ,Huaranchal,12,15,14,5
+La Libertad,Otuzco ,La Cuesta,12,15,14,5
+La Libertad,Otuzco ,Mache,12,15,14,5
+La Libertad,Otuzco ,Paranday,12,15,14,5
+La Libertad,Otuzco ,Salpo,12,15,14,5
+La Libertad,Otuzco ,Sinsicap,12,15,14,5
+La Libertad,Otuzco ,Usquil,12,15,14,5
+La Libertad,Pacasmayo ,San Pedro de Lloc,12,15,14,5
+La Libertad,Pacasmayo ,Guadalupe,12,15,14,5
+La Libertad,Pacasmayo ,Jequetepeque,12,15,14,5
+La Libertad,Pacasmayo ,Pacasmayo,12,15,14,5
+La Libertad,Pacasmayo ,San José,12,15,14,5
+La Libertad,Pataz ,Tayabamba,12,15,14,5
+La Libertad,Pataz ,Buldibuyo,12,15,14,5
+La Libertad,Pataz ,Chillia,12,15,14,5
+La Libertad,Pataz ,Huancaspata,12,15,14,5
+La Libertad,Pataz ,Huaylillas,12,15,14,5
+La Libertad,Pataz ,Huayo,12,15,14,5
+La Libertad,Pataz ,Ongon,12,15,14,5
+La Libertad,Pataz ,Parcoy,12,15,14,5
+La Libertad,Pataz ,Pataz,12,15,14,5
+La Libertad,Pataz ,Pias,12,15,14,5
+La Libertad,Pataz ,Santiago de Challas,12,15,14,5
+La Libertad,Pataz ,Taurija,12,15,14,5
+La Libertad,Pataz ,Urpay,12,15,14,5
+La Libertad,Sanchez Carrion ,Huamachuco,12,15,14,5
+La Libertad,Sanchez Carrion ,Chugay,12,15,14,5
+La Libertad,Sanchez Carrion ,Cochorco,12,15,14,5
+La Libertad,Sanchez Carrion ,Curgos,12,15,14,5
+La Libertad,Sanchez Carrion ,Marcabal,12,15,14,5
+La Libertad,Sanchez Carrion ,Sanagoran,12,15,14,5
+La Libertad,Sanchez Carrion ,Sarin,12,15,14,5
+La Libertad,Sanchez Carrion ,Sartimbamba,12,15,14,5
+La Libertad,Santiago de Chuco ,Santiago de Chuco,12,15,14,5
+La Libertad,Santiago de Chuco ,Angasmarca,12,15,14,5
+La Libertad,Santiago de Chuco ,Cachicadan,12,15,14,5
+La Libertad,Santiago de Chuco ,Mollebamba,12,15,14,5
+La Libertad,Santiago de Chuco ,Mollepata,12,15,14,5
+La Libertad,Santiago de Chuco ,Quiruvilca,12,15,14,5
+La Libertad,Santiago de Chuco ,Santa Cruz de Chuca,12,15,14,5
+La Libertad,Santiago de Chuco ,Sitabamba,12,15,14,5
+La Libertad,Gran Chimu ,Cascas,12,15,14,5
+La Libertad,Gran Chimu ,Lucma,12,15,14,5
+La Libertad,Gran Chimu ,Marmot,12,15,14,5
+La Libertad,Gran Chimu ,Sayapullo,12,15,14,5
+La Libertad,Viru ,Viru,12,15,14,5
+La Libertad,Viru ,Chao,12,15,14,5
+La Libertad,Viru ,Guadalupito,12,15,14,5
+Lambayeque,Chiclayo ,Chiclayo,12,15,14,5
+Lambayeque,Chiclayo ,Chongoyape,12,15,14,5
+Lambayeque,Chiclayo ,Eten,12,15,14,5
+Lambayeque,Chiclayo ,Eten Puerto,12,15,14,5
+Lambayeque,Chiclayo ,José Leonardo Ortiz,12,15,14,5
+Lambayeque,Chiclayo ,La Victoria,12,15,14,5
+Lambayeque,Chiclayo ,Lagunas,12,15,14,5
+Lambayeque,Chiclayo ,Monsefu,12,15,14,5
+Lambayeque,Chiclayo ,Nueva Arica,12,15,14,5
+Lambayeque,Chiclayo ,Oyotun,12,15,14,5
+Lambayeque,Chiclayo ,Picsi,12,15,14,5
+Lambayeque,Chiclayo ,Pimentel,12,15,14,5
+Lambayeque,Chiclayo ,Reque,12,15,14,5
+Lambayeque,Chiclayo ,Santa Rosa,12,15,14,5
+Lambayeque,Chiclayo ,Saña,12,15,14,5
+Lambayeque,Chiclayo ,Cayalti,12,15,14,5
+Lambayeque,Chiclayo ,Patapo,12,15,14,5
+Lambayeque,Chiclayo ,Pomalca,12,15,14,5
+Lambayeque,Chiclayo ,Pucala,12,15,14,5
+Lambayeque,Chiclayo ,Tuman,12,15,14,5
+Lambayeque,Ferreñafe ,Ferreñafe,12,15,14,5
+Lambayeque,Ferreñafe ,Cañaris,12,15,14,5
+Lambayeque,Ferreñafe ,Incahuasi,12,15,14,5
+Lambayeque,Ferreñafe ,Manuel Antonio Mesones Muro,12,15,14,5
+Lambayeque,Ferreñafe ,Pitipo,12,15,14,5
+Lambayeque,Ferreñafe ,Pueblo Nuevo,12,15,14,5
+Lambayeque,Lambayeque ,Lambayeque,12,15,14,5
+Lambayeque,Lambayeque ,Chochope,12,15,14,5
+Lambayeque,Lambayeque ,Illimo,12,15,14,5
+Lambayeque,Lambayeque ,Jayanca,12,15,14,5
+Lambayeque,Lambayeque ,Mochumi,12,15,14,5
+Lambayeque,Lambayeque ,Morrope,12,15,14,5
+Lambayeque,Lambayeque ,Motupe,12,15,14,5
+Lambayeque,Lambayeque ,Olmos,12,15,14,5
+Lambayeque,Lambayeque ,Pacora,12,15,14,5
+Lambayeque,Lambayeque ,Salas,12,15,14,5
+Lambayeque,Lambayeque ,San José,12,15,14,5
+Lambayeque,Lambayeque ,Tucume,12,15,14,5
+Lima,Lima ,Lima,12,15,14,5
+Lima,Lima ,Ancon,12,15,14,5
+Lima,Lima ,Ate,12,15,14,5
+Lima,Lima ,Barranco,12,15,14,5
+Lima,Lima ,Breña,12,15,14,5
+Lima,Lima ,Carabayllo,12,15,14,5
+Lima,Lima ,Chaclacayo,12,15,14,5
+Lima,Lima ,Chorrillos,12,15,14,5
+Lima,Lima ,Cieneguilla,12,15,14,5
+Lima,Lima ,Comas,12,15,14,5
+Lima,Lima ,El Agustino,12,15,14,5
+Lima,Lima ,Independencia,12,15,14,5
+Lima,Lima ,Jesus Maria,12,15,14,5
+Lima,Lima ,La Molina,12,15,14,5
+Lima,Lima ,La Victoria,12,15,14,5
+Lima,Lima ,Lince,12,15,14,5
+Lima,Lima ,Los Olivos,12,15,14,5
+Lima,Lima ,Lurigancho,12,15,14,5
+Lima,Lima ,Lurin,12,15,14,5
+Lima,Lima ,Magdalena del Mar,12,15,14,5
+Lima,Lima ,Pueblo Libre,12,15,14,5
+Lima,Lima ,Miraflores,12,15,14,5
+Lima,Lima ,Pachacamac,12,15,14,5
+Lima,Lima ,Pucusana,12,15,14,5
+Lima,Lima ,Puente Piedra,12,15,14,5
+Lima,Lima ,Punta Hermosa,12,15,14,5
+Lima,Lima ,Punta Negra,12,15,14,5
+Lima,Lima ,Rimac,12,15,14,5
+Lima,Lima ,San Bartolo,12,15,14,5
+Lima,Lima ,San Borja,12,15,14,5
+Lima,Lima ,San Isidro,12,15,14,5
+Lima,Lima ,San Juan de Lurigancho,12,15,14,5
+Lima,Lima ,San Juan de Miraflores,12,15,14,5
+Lima,Lima ,San Luis,12,15,14,5
+Lima,Lima ,San Martin de Porres,12,15,14,5
+Lima,Lima ,San Miguel,12,15,14,5
+Lima,Lima ,Santa Anita,12,15,14,5
+Lima,Lima ,Santa Maria del Mar,12,15,14,5
+Lima,Lima ,Santa Rosa,12,15,14,5
+Lima,Lima ,Santiago de Surco,12,15,14,5
+Lima,Lima ,Surquillo,12,15,14,5
+Lima,Lima ,Villa El Salvador,12,15,14,5
+Lima,Lima ,Villa Maria del Triunfo,12,15,14,5
+Lima,Barranca ,Barranca,12,15,14,5
+Lima,Barranca ,Paramonga,12,15,14,5
+Lima,Barranca ,Pativilca,12,15,14,5
+Lima,Barranca ,Supe,12,15,14,5
+Lima,Barranca ,Supe Puerto,12,15,14,5
+Lima,Cajatambo ,Cajatambo,12,15,14,5
+Lima,Cajatambo ,Copa,12,15,14,5
+Lima,Cajatambo ,Gorgor,12,15,14,5
+Lima,Cajatambo ,Huancapon,12,15,14,5
+Lima,Cajatambo ,Manas,12,15,14,5
+Lima,Canta ,Canta,12,15,14,5
+Lima,Canta ,Arahuay,12,15,14,5
+Lima,Canta ,Huamantanga,12,15,14,5
+Lima,Canta ,Huaros,12,15,14,5
+Lima,Canta ,Lachaqui,12,15,14,5
+Lima,Canta ,San Buenaventura,12,15,14,5
+Lima,Canta ,Santa Rosa de Quives,12,15,14,5
+Lima,Cañete ,San Vicente de Cañete,12,15,14,5
+Lima,Cañete ,Asia,12,15,14,5
+Lima,Cañete ,Calango,12,15,14,5
+Lima,Cañete ,Cerro Azul,12,15,14,5
+Lima,Cañete ,Chilca,12,15,14,5
+Lima,Cañete ,Coayllo,12,15,14,5
+Lima,Cañete ,Imperial,12,15,14,5
+Lima,Cañete ,Lunahuana,12,15,14,5
+Lima,Cañete ,Mala,12,15,14,5
+Lima,Cañete ,Nuevo Imperial,12,15,14,5
+Lima,Cañete ,Pacaran,12,15,14,5
+Lima,Cañete ,Quilmana,12,15,14,5
+Lima,Cañete ,San Antonio,12,15,14,5
+Lima,Cañete ,San Luis,12,15,14,5
+Lima,Cañete ,Santa Cruz de Flores,12,15,14,5
+Lima,Cañete ,Zuñiga,12,15,14,5
+Lima,Huaral ,Huaral,12,15,14,5
+Lima,Huaral ,Atavillos Alto,12,15,14,5
+Lima,Huaral ,Atavillos Bajo,12,15,14,5
+Lima,Huaral ,Aucallama,12,15,14,5
+Lima,Huaral ,Chancay,12,15,14,5
+Lima,Huaral ,Ihuari,12,15,14,5
+Lima,Huaral ,Lampian,12,15,14,5
+Lima,Huaral ,Pacaraos,12,15,14,5
+Lima,Huaral ,San Miguel de Acos,12,15,14,5
+Lima,Huaral ,Santa Cruz de Andamarca,12,15,14,5
+Lima,Huaral ,Sumbilca,12,15,14,5
+Lima,Huaral ,Veintisiete de Noviembre,12,15,14,5
+Lima,Huarochiri ,Matucana,12,15,14,5
+Lima,Huarochiri ,Antioquia,12,15,14,5
+Lima,Huarochiri ,Callahuanca,12,15,14,5
+Lima,Huarochiri ,Carampoma,12,15,14,5
+Lima,Huarochiri ,Chicla,12,15,14,5
+Lima,Huarochiri ,Cuenca,12,15,14,5
+Lima,Huarochiri ,Huachupampa,12,15,14,5
+Lima,Huarochiri ,Huanza,12,15,14,5
+Lima,Huarochiri ,Huarochiri,12,15,14,5
+Lima,Huarochiri ,Lahuaytambo,12,15,14,5
+Lima,Huarochiri ,Langa,12,15,14,5
+Lima,Huarochiri ,Laraos,12,15,14,5
+Lima,Huarochiri ,Mariatana,12,15,14,5
+Lima,Huarochiri ,Ricardo Palma,12,15,14,5
+Lima,Huarochiri ,San Andrés de Tupicocha,12,15,14,5
+Lima,Huarochiri ,San Antonio,12,15,14,5
+Lima,Huarochiri ,San Bartolomé,12,15,14,5
+Lima,Huarochiri ,San Damian,12,15,14,5
+Lima,Huarochiri ,San Juan de Iris,12,15,14,5
+Lima,Huarochiri ,San Juan de Tantaranche,12,15,14,5
+Lima,Huarochiri ,San Lorenzo de Quinti,12,15,14,5
+Lima,Huarochiri ,San Mateo,12,15,14,5
+Lima,Huarochiri ,San Mateo de Otao,12,15,14,5
+Lima,Huarochiri ,San Pedro de Casta,12,15,14,5
+Lima,Huarochiri ,San Pedro de Huancayre,12,15,14,5
+Lima,Huarochiri ,Sangallaya,12,15,14,5
+Lima,Huarochiri ,Santa Cruz de Cocachacra,12,15,14,5
+Lima,Huarochiri ,Santa Eulalia,12,15,14,5
+Lima,Huarochiri ,Santiago de Anchucaya,12,15,14,5
+Lima,Huarochiri ,Santiago de Tuna,12,15,14,5
+Lima,Huarochiri ,Santo Domingo de Los Olleros,12,15,14,5
+Lima,Huarochiri ,Surco,12,15,14,5
+Lima,Huaura ,Huacho,12,15,14,5
+Lima,Huaura ,Ambar,12,15,14,5
+Lima,Huaura ,Caleta de Carquin,12,15,14,5
+Lima,Huaura ,Checras,12,15,14,5
+Lima,Huaura ,Hualmay,12,15,14,5
+Lima,Huaura ,Huaura,12,15,14,5
+Lima,Huaura ,Leoncio Prado,12,15,14,5
+Lima,Huaura ,Paccho,12,15,14,5
+Lima,Huaura ,Santa Leonor,12,15,14,5
+Lima,Huaura ,Santa Maria,12,15,14,5
+Lima,Huaura ,Sayan,12,15,14,5
+Lima,Huaura ,Vegueta,12,15,14,5
+Lima,Oyon ,Oyon,12,15,14,5
+Lima,Oyon ,Andajes,12,15,14,5
+Lima,Oyon ,Caujul,12,15,14,5
+Lima,Oyon ,Cochamarca,12,15,14,5
+Lima,Oyon ,Navan,12,15,14,5
+Lima,Oyon ,Pachangara,12,15,14,5
+Lima,Yauyos ,Yauyos,12,15,14,5
+Lima,Yauyos ,Alis,12,15,14,5
+Lima,Yauyos ,Allauca,12,15,14,5
+Lima,Yauyos ,Ayaviri,12,15,14,5
+Lima,Yauyos ,Azangaro,12,15,14,5
+Lima,Yauyos ,Cacra,12,15,14,5
+Lima,Yauyos ,Carania,12,15,14,5
+Lima,Yauyos ,Catahuasi,12,15,14,5
+Lima,Yauyos ,Chocos,12,15,14,5
+Lima,Yauyos ,Cochas,12,15,14,5
+Lima,Yauyos ,Colonia,12,15,14,5
+Lima,Yauyos ,Hongos,12,15,14,5
+Lima,Yauyos ,Huampara,12,15,14,5
+Lima,Yauyos ,Huancaya,12,15,14,5
+Lima,Yauyos ,Huangascar,12,15,14,5
+Lima,Yauyos ,Huantan,12,15,14,5
+Lima,Yauyos ,Huañec,12,15,14,5
+Lima,Yauyos ,Laraos,12,15,14,5
+Lima,Yauyos ,Lincha,12,15,14,5
+Lima,Yauyos ,Madean,12,15,14,5
+Lima,Yauyos ,Miraflores,12,15,14,5
+Lima,Yauyos ,Omas,12,15,14,5
+Lima,Yauyos ,Putinza,12,15,14,5
+Lima,Yauyos ,Quinches,12,15,14,5
+Lima,Yauyos ,Quinocay,12,15,14,5
+Lima,Yauyos ,San Joaquin,12,15,14,5
+Lima,Yauyos ,San Pedro de Pilas,12,15,14,5
+Lima,Yauyos ,Tanta,12,15,14,5
+Lima,Yauyos ,Tauripampa,12,15,14,5
+Lima,Yauyos ,Tomas,12,15,14,5
+Lima,Yauyos ,Tupe,12,15,14,5
+Lima,Yauyos ,Viñac,12,15,14,5
+Lima,Yauyos ,Vitis,12,15,14,5
+Loreto,Maynas ,Iquitos,12,15,14,5
+Loreto,Maynas ,Alto Nanay,12,15,14,5
+Loreto,Maynas ,Fernando Lores,12,15,14,5
+Loreto,Maynas ,Indiana,12,15,14,5
+Loreto,Maynas ,Las Amazonas,12,15,14,5
+Loreto,Maynas ,Mazan,12,15,14,5
+Loreto,Maynas ,Napo,12,15,14,5
+Loreto,Maynas ,Punchana,12,15,14,5
+Loreto,Maynas ,Torres Causana,12,15,14,5
+Loreto,Maynas ,Belén,12,15,14,5
+Loreto,Maynas ,San Juan Bautista,12,15,14,5
+Loreto,Alto Amazonas ,Yurimaguas,12,15,14,5
+Loreto,Alto Amazonas ,Balsapuerto,12,15,14,5
+Loreto,Alto Amazonas ,Jeberos,12,15,14,5
+Loreto,Alto Amazonas ,Lagunas,12,15,14,5
+Loreto,Alto Amazonas ,Santa Cruz,12,15,14,5
+Loreto,Alto Amazonas ,Teniente Cesar Lopez Rojas,12,15,14,5
+Loreto,Loreto ,Nauta,12,15,14,5
+Loreto,Loreto ,Parinari,12,15,14,5
+Loreto,Loreto ,Tigre,12,15,14,5
+Loreto,Loreto ,Trompeteros,12,15,14,5
+Loreto,Loreto ,Urarinas,12,15,14,5
+Loreto,Mariscal Ramon Castilla ,Ramon Castilla,12,15,14,5
+Loreto,Mariscal Ramon Castilla ,Pebas,12,15,14,5
+Loreto,Mariscal Ramon Castilla ,Yavari,12,15,14,5
+Loreto,Mariscal Ramon Castilla ,San Pablo,12,15,14,5
+Loreto,Requena ,Requena,12,15,14,5
+Loreto,Requena ,Alto Tapiche,12,15,14,5
+Loreto,Requena ,Capelo,12,15,14,5
+Loreto,Requena ,Emilio San Martin,12,15,14,5
+Loreto,Requena ,Maquia,12,15,14,5
+Loreto,Requena ,Puinahua,12,15,14,5
+Loreto,Requena ,Saquena,12,15,14,5
+Loreto,Requena ,Soplin,12,15,14,5
+Loreto,Requena ,Tapiche,12,15,14,5
+Loreto,Requena ,Jenaro Herrera,12,15,14,5
+Loreto,Requena ,Yaquerana,12,15,14,5
+Loreto,Ucayali ,Contamana,12,15,14,5
+Loreto,Ucayali ,Inahuaya,12,15,14,5
+Loreto,Ucayali ,Padre Marquez,12,15,14,5
+Loreto,Ucayali ,Pampa Hermosa,12,15,14,5
+Loreto,Ucayali ,Sarayacu,12,15,14,5
+Loreto,Ucayali ,Vargas Guerra,12,15,14,5
+Loreto,Datem del Marañon ,Barranca,12,15,14,5
+Loreto,Datem del Marañon ,Cahuapanas,12,15,14,5
+Loreto,Datem del Marañon ,Manseriche,12,15,14,5
+Loreto,Datem del Marañon ,Morona,12,15,14,5
+Loreto,Datem del Marañon ,Pastaza,12,15,14,5
+Loreto,Datem del Marañon ,Andoas,12,15,14,5
+Loreto,Putumayo,Putumayo,12,15,14,5
+Loreto,Putumayo,Rosa Panduro,12,15,14,5
+Loreto,Putumayo,Teniente Manuel Clavero,12,15,14,5
+Loreto,Putumayo,Yaguas,12,15,14,5
+Madre de Dios,Tambopata ,Tambopata,12,15,14,5
+Madre de Dios,Tambopata ,Inambari,12,15,14,5
+Madre de Dios,Tambopata ,Las Piedras,12,15,14,5
+Madre de Dios,Tambopata ,Laberinto,12,15,14,5
+Madre de Dios,Manu ,Manu,12,15,14,5
+Madre de Dios,Manu ,Fitzcarrald,12,15,14,5
+Madre de Dios,Manu ,Madre de Dios,12,15,14,5
+Madre de Dios,Manu ,Huepetuhe,12,15,14,5
+Madre de Dios,Tahuamanu ,Iñapari,12,15,14,5
+Madre de Dios,Tahuamanu ,Iberia,12,15,14,5
+Madre de Dios,Tahuamanu ,Tahuamanu,12,15,14,5
+Moquegua,Mariscal Nieto ,Moquegua,12,15,14,5
+Moquegua,Mariscal Nieto ,Carumas,12,15,14,5
+Moquegua,Mariscal Nieto ,Cuchumbaya,12,15,14,5
+Moquegua,Mariscal Nieto ,Samegua,12,15,14,5
+Moquegua,Mariscal Nieto ,San Cristobal,12,15,14,5
+Moquegua,Mariscal Nieto ,Torata,12,15,14,5
+Moquegua,General Sanchez Cerro ,Omate,12,15,14,5
+Moquegua,General Sanchez Cerro ,Chojata,12,15,14,5
+Moquegua,General Sanchez Cerro ,Coalaque,12,15,14,5
+Moquegua,General Sanchez Cerro ,Ichuña,12,15,14,5
+Moquegua,General Sanchez Cerro ,La Capilla,12,15,14,5
+Moquegua,General Sanchez Cerro ,Lloque,12,15,14,5
+Moquegua,General Sanchez Cerro ,Matalaque,12,15,14,5
+Moquegua,General Sanchez Cerro ,Puquina,12,15,14,5
+Moquegua,General Sanchez Cerro ,Quinistaquillas,12,15,14,5
+Moquegua,General Sanchez Cerro ,Ubinas,12,15,14,5
+Moquegua,General Sanchez Cerro ,Yunga,12,15,14,5
+Moquegua,Ilo ,Ilo,12,15,14,5
+Moquegua,Ilo ,El Algarrobal,12,15,14,5
+Moquegua,Ilo ,Pacocha,12,15,14,5
+Pasco,Pasco ,Chaupimarca,12,15,14,5
+Pasco,Pasco ,Huachon,12,15,14,5
+Pasco,Pasco ,Huariaca,12,15,14,5
+Pasco,Pasco ,Huayllay,12,15,14,5
+Pasco,Pasco ,Ninacaca,12,15,14,5
+Pasco,Pasco ,Pallanchacra,12,15,14,5
+Pasco,Pasco ,Paucartambo,12,15,14,5
+Pasco,Pasco ,San Francisco de Asis de Yarusyacan,12,15,14,5
+Pasco,Pasco ,Simon Bolivar,12,15,14,5
+Pasco,Pasco ,Ticlacayan,12,15,14,5
+Pasco,Pasco ,Tinyahuarco,12,15,14,5
+Pasco,Pasco ,Vicco,12,15,14,5
+Pasco,Pasco ,Yanacancha,12,15,14,5
+Pasco,Daniel Alcides Carrion ,Yanahuanca,12,15,14,5
+Pasco,Daniel Alcides Carrion ,Chacayan,12,15,14,5
+Pasco,Daniel Alcides Carrion ,Goyllarisquizga,12,15,14,5
+Pasco,Daniel Alcides Carrion ,Paucar,12,15,14,5
+Pasco,Daniel Alcides Carrion ,San Pedro de Pillao,12,15,14,5
+Pasco,Daniel Alcides Carrion ,Santa Ana de Tusi,12,15,14,5
+Pasco,Daniel Alcides Carrion ,Tapuc,12,15,14,5
+Pasco,Daniel Alcides Carrion ,Vilcabamba,12,15,14,5
+Pasco,Oxapampa ,Oxapampa,12,15,14,5
+Pasco,Oxapampa ,Chontabamba,12,15,14,5
+Pasco,Oxapampa ,Huancabamba,12,15,14,5
+Pasco,Oxapampa ,Palcazu,12,15,14,5
+Pasco,Oxapampa ,Pozuzo,12,15,14,5
+Pasco,Oxapampa ,Puerto Bermudez,12,15,14,5
+Pasco,Oxapampa ,Villa Rica,12,15,14,5
+Pasco,Oxapampa ,Constitucion,12,15,14,5
+Piura,Piura ,Piura,12,15,14,5
+Piura,Piura ,Castilla,12,15,14,5
+Piura,Piura ,Catacaos,12,15,14,5
+Piura,Piura ,Cura Mori,12,15,14,5
+Piura,Piura ,El Tallan,12,15,14,5
+Piura,Piura ,La Arena,12,15,14,5
+Piura,Piura ,La Union,12,15,14,5
+Piura,Piura ,Las Lomas,12,15,14,5
+Piura,Piura ,Tambo Grande,12,15,14,5
+Piura,Piura ,Veintiseis de Octubre,12,15,14,5
+Piura,Ayabaca ,Ayabaca,12,15,14,5
+Piura,Ayabaca ,Frias,12,15,14,5
+Piura,Ayabaca ,Jilili,12,15,14,5
+Piura,Ayabaca ,Lagunas,12,15,14,5
+Piura,Ayabaca ,Montero,12,15,14,5
+Piura,Ayabaca ,Pacaipampa,12,15,14,5
+Piura,Ayabaca ,Paimas,12,15,14,5
+Piura,Ayabaca ,Sapillica,12,15,14,5
+Piura,Ayabaca ,Sicchez,12,15,14,5
+Piura,Ayabaca ,Suyo,12,15,14,5
+Piura,Huancabamba ,Huancabamba,12,15,14,5
+Piura,Huancabamba ,Canchaque,12,15,14,5
+Piura,Huancabamba ,El Carmen de la Frontera,12,15,14,5
+Piura,Huancabamba ,Huarmaca,12,15,14,5
+Piura,Huancabamba ,Lalaquiz,12,15,14,5
+Piura,Huancabamba ,San Miguel de El Faique,12,15,14,5
+Piura,Huancabamba ,Sondor,12,15,14,5
+Piura,Huancabamba ,Sondorillo,12,15,14,5
+Piura,Morropon ,Chulucanas,12,15,14,5
+Piura,Morropon ,Buenos Aires,12,15,14,5
+Piura,Morropon ,Chalaco,12,15,14,5
+Piura,Morropon ,La Matanza,12,15,14,5
+Piura,Morropon ,Morropon,12,15,14,5
+Piura,Morropon ,Salitral,12,15,14,5
+Piura,Morropon ,San Juan de Bigote,12,15,14,5
+Piura,Morropon ,Santa Catalina de Mossa,12,15,14,5
+Piura,Morropon ,Santo Domingo,12,15,14,5
+Piura,Morropon ,Yamango,12,15,14,5
+Piura,Paita ,Paita,12,15,14,5
+Piura,Paita ,Amotape,12,15,14,5
+Piura,Paita ,Arenal,12,15,14,5
+Piura,Paita ,Colan,12,15,14,5
+Piura,Paita ,La Huaca,12,15,14,5
+Piura,Paita ,Tamarindo,12,15,14,5
+Piura,Paita ,Vichayal,12,15,14,5
+Piura,Sullana ,Sullana,12,15,14,5
+Piura,Sullana ,Bellavista,12,15,14,5
+Piura,Sullana ,Ignacio Escudero,12,15,14,5
+Piura,Sullana ,Lancones,12,15,14,5
+Piura,Sullana ,Marcavelica,12,15,14,5
+Piura,Sullana ,Miguel Checa,12,15,14,5
+Piura,Sullana ,Querecotillo,12,15,14,5
+Piura,Sullana ,Salitral,12,15,14,5
+Piura,Talara ,Pariñas,12,15,14,5
+Piura,Talara ,El Alto,12,15,14,5
+Piura,Talara ,La Brea,12,15,14,5
+Piura,Talara ,Lobitos,12,15,14,5
+Piura,Talara ,Los Organos,12,15,14,5
+Piura,Talara ,Mancora,12,15,14,5
+Piura,Sechura ,Sechura,12,15,14,5
+Piura,Sechura ,Bellavista de la Union,12,15,14,5
+Piura,Sechura ,Bernal,12,15,14,5
+Piura,Sechura ,Cristo Nos Valga,12,15,14,5
+Piura,Sechura ,Vice,12,15,14,5
+Piura,Sechura ,Rinconada Llicuar,12,15,14,5
+Puno,Puno ,Puno,12,15,14,5
+Puno,Puno ,Acora,12,15,14,5
+Puno,Puno ,Amantani,12,15,14,5
+Puno,Puno ,Atuncolla,12,15,14,5
+Puno,Puno ,Capachica,12,15,14,5
+Puno,Puno ,Chucuito,12,15,14,5
+Puno,Puno ,Coata,12,15,14,5
+Puno,Puno ,Huata,12,15,14,5
+Puno,Puno ,Mañazo,12,15,14,5
+Puno,Puno ,Paucarcolla,12,15,14,5
+Puno,Puno ,Pichacani,12,15,14,5
+Puno,Puno ,Plateria,12,15,14,5
+Puno,Puno ,San Antonio,12,15,14,5
+Puno,Puno ,Tiquillaca,12,15,14,5
+Puno,Puno ,Vilque,12,15,14,5
+Puno,Azangaro ,Azangaro,12,15,14,5
+Puno,Azangaro ,Achaya,12,15,14,5
+Puno,Azangaro ,Arapa,12,15,14,5
+Puno,Azangaro ,Asillo,12,15,14,5
+Puno,Azangaro ,Caminaca,12,15,14,5
+Puno,Azangaro ,Chupa,12,15,14,5
+Puno,Azangaro ,José Domingo Choquehuanca,12,15,14,5
+Puno,Azangaro ,Muñani,12,15,14,5
+Puno,Azangaro ,Potoni,12,15,14,5
+Puno,Azangaro ,Saman,12,15,14,5
+Puno,Azangaro ,San Anton,12,15,14,5
+Puno,Azangaro ,San José,12,15,14,5
+Puno,Azangaro ,San Juan de Salinas,12,15,14,5
+Puno,Azangaro ,Santiago de Pupuja,12,15,14,5
+Puno,Azangaro ,Tirapata,12,15,14,5
+Puno,Carabaya ,Macusani,12,15,14,5
+Puno,Carabaya ,Ajoyani,12,15,14,5
+Puno,Carabaya ,Ayapata,12,15,14,5
+Puno,Carabaya ,Coasa,12,15,14,5
+Puno,Carabaya ,Corani,12,15,14,5
+Puno,Carabaya ,Crucero,12,15,14,5
+Puno,Carabaya ,Ituata,12,15,14,5
+Puno,Carabaya ,Ollachea,12,15,14,5
+Puno,Carabaya ,San Gaban,12,15,14,5
+Puno,Carabaya ,Usicayos,12,15,14,5
+Puno,Chucuito ,Juli,12,15,14,5
+Puno,Chucuito ,Desaguadero,12,15,14,5
+Puno,Chucuito ,Huacullani,12,15,14,5
+Puno,Chucuito ,Kelluyo,12,15,14,5
+Puno,Chucuito ,Pisacoma,12,15,14,5
+Puno,Chucuito ,Pomata,12,15,14,5
+Puno,Chucuito ,Zepita,12,15,14,5
+Puno,El Collao ,Ilave,12,15,14,5
+Puno,El Collao ,Capazo,12,15,14,5
+Puno,El Collao ,Pilcuyo,12,15,14,5
+Puno,El Collao ,Santa Rosa,12,15,14,5
+Puno,El Collao ,Conduriri,12,15,14,5
+Puno,Huancané ,Huancane,12,15,14,5
+Puno,Huancané ,Cojata,12,15,14,5
+Puno,Huancané ,Huatasani,12,15,14,5
+Puno,Huancané ,Inchupalla,12,15,14,5
+Puno,Huancané ,Pusi,12,15,14,5
+Puno,Huancané ,Rosaspata,12,15,14,5
+Puno,Huancané ,Taraco,12,15,14,5
+Puno,Huancané ,Vilque Chico,12,15,14,5
+Puno,Lampa ,Lampa,12,15,14,5
+Puno,Lampa ,Cabanilla,12,15,14,5
+Puno,Lampa ,Calapuja,12,15,14,5
+Puno,Lampa ,Nicasio,12,15,14,5
+Puno,Lampa ,Ocuviri,12,15,14,5
+Puno,Lampa ,Palca,12,15,14,5
+Puno,Lampa ,Paratia,12,15,14,5
+Puno,Lampa ,Pucara,12,15,14,5
+Puno,Lampa ,Santa Lucia,12,15,14,5
+Puno,Lampa ,Vilavila,12,15,14,5
+Puno,Melgar ,Ayaviri,12,15,14,5
+Puno,Melgar ,Antauta,12,15,14,5
+Puno,Melgar ,Cupi,12,15,14,5
+Puno,Melgar ,Llalli,12,15,14,5
+Puno,Melgar ,Macari,12,15,14,5
+Puno,Melgar ,Nuñoa,12,15,14,5
+Puno,Melgar ,Orurillo,12,15,14,5
+Puno,Melgar ,Santa Rosa,12,15,14,5
+Puno,Melgar ,Umachiri,12,15,14,5
+Puno,Moho ,Moho,12,15,14,5
+Puno,Moho ,Conima,12,15,14,5
+Puno,Moho ,Huayrapata,12,15,14,5
+Puno,Moho ,Tilali,12,15,14,5
+Puno,San Antonio de Putina ,Putina,12,15,14,5
+Puno,San Antonio de Putina ,Ananea,12,15,14,5
+Puno,San Antonio de Putina ,Pedro Vilca Apaza,12,15,14,5
+Puno,San Antonio de Putina ,Quilcapuncu,12,15,14,5
+Puno,San Antonio de Putina ,Sina,12,15,14,5
+Puno,San Roman ,Juliaca,12,15,14,5
+Puno,San Roman ,Cabana,12,15,14,5
+Puno,San Roman ,Cabanillas,12,15,14,5
+Puno,San Roman ,Caracoto,12,15,14,5
+Puno,Sandia ,Sandia,12,15,14,5
+Puno,Sandia ,Cuyocuyo,12,15,14,5
+Puno,Sandia ,Limbani,12,15,14,5
+Puno,Sandia ,Patambuco,12,15,14,5
+Puno,Sandia ,Phara,12,15,14,5
+Puno,Sandia ,Quiaca,12,15,14,5
+Puno,Sandia ,San Juan del Oro,12,15,14,5
+Puno,Sandia ,Yanahuaya,12,15,14,5
+Puno,Sandia ,Alto Inambari,12,15,14,5
+Puno,Sandia ,San Pedro de Putina Punco,12,15,14,5
+Puno,Yunguyo ,Yunguyo,12,15,14,5
+Puno,Yunguyo ,Anapia,12,15,14,5
+Puno,Yunguyo ,Copani,12,15,14,5
+Puno,Yunguyo ,Cuturapi,12,15,14,5
+Puno,Yunguyo ,Ollaraya,12,15,14,5
+Puno,Yunguyo ,Tinicachi,12,15,14,5
+Puno,Yunguyo ,Unicachi,12,15,14,5
+San Martin,Moyobamba ,Moyobamba,12,15,14,5
+San Martin,Moyobamba ,Calzada,12,15,14,5
+San Martin,Moyobamba ,Habana,12,15,14,5
+San Martin,Moyobamba ,Jepelacio,12,15,14,5
+San Martin,Moyobamba ,Soritor,12,15,14,5
+San Martin,Moyobamba ,Yantalo,12,15,14,5
+San Martin,Bellavista ,Bellavista,12,15,14,5
+San Martin,Bellavista ,Alto Biavo,12,15,14,5
+San Martin,Bellavista ,Bajo Biavo,12,15,14,5
+San Martin,Bellavista ,Huallaga,12,15,14,5
+San Martin,Bellavista ,San Pablo,12,15,14,5
+San Martin,Bellavista ,San Rafael,12,15,14,5
+San Martin,El Dorado ,San José de Sisa,12,15,14,5
+San Martin,El Dorado ,Agua Blanca,12,15,14,5
+San Martin,El Dorado ,San Martin,12,15,14,5
+San Martin,El Dorado ,Santa Rosa,12,15,14,5
+San Martin,El Dorado ,Shatoja,12,15,14,5
+San Martin,Huallaga ,Saposoa,12,15,14,5
+San Martin,Huallaga ,Alto Saposoa,12,15,14,5
+San Martin,Huallaga ,El Eslabon,12,15,14,5
+San Martin,Huallaga ,Piscoyacu,12,15,14,5
+San Martin,Huallaga ,Sacanche,12,15,14,5
+San Martin,Huallaga ,Tingo de Saposoa,12,15,14,5
+San Martin,Lamas ,Lamas,12,15,14,5
+San Martin,Lamas ,Alonso de Alvarado,12,15,14,5
+San Martin,Lamas ,Barranquita,12,15,14,5
+San Martin,Lamas ,Caynarachi,12,15,14,5
+San Martin,Lamas ,Cuñumbuqui,12,15,14,5
+San Martin,Lamas ,Pinto Recodo,12,15,14,5
+San Martin,Lamas ,Rumisapa,12,15,14,5
+San Martin,Lamas ,San Roque de Cumbaza,12,15,14,5
+San Martin,Lamas ,Shanao,12,15,14,5
+San Martin,Lamas ,Tabalosos,12,15,14,5
+San Martin,Lamas ,Zapatero,12,15,14,5
+San Martin,Mariscal Caceres ,Juanjui,12,15,14,5
+San Martin,Mariscal Caceres ,Campanilla,12,15,14,5
+San Martin,Mariscal Caceres ,Huicungo,12,15,14,5
+San Martin,Mariscal Caceres ,Pachiza,12,15,14,5
+San Martin,Mariscal Caceres ,Pajarillo,12,15,14,5
+San Martin,Picota ,Picota,12,15,14,5
+San Martin,Picota ,Buenos Aires,12,15,14,5
+San Martin,Picota ,Caspisapa,12,15,14,5
+San Martin,Picota ,Pilluana,12,15,14,5
+San Martin,Picota ,Pucacaca,12,15,14,5
+San Martin,Picota ,San Cristobal,12,15,14,5
+San Martin,Picota ,San Hilarion,12,15,14,5
+San Martin,Picota ,Shamboyacu,12,15,14,5
+San Martin,Picota ,Tingo de Ponasa,12,15,14,5
+San Martin,Picota ,Tres Unidos,12,15,14,5
+San Martin,Rioja ,Rioja,12,15,14,5
+San Martin,Rioja ,Awajun,12,15,14,5
+San Martin,Rioja ,Elias Soplin Vargas,12,15,14,5
+San Martin,Rioja ,Nueva Cajamarca,12,15,14,5
+San Martin,Rioja ,Pardo Miguel,12,15,14,5
+San Martin,Rioja ,Posic,12,15,14,5
+San Martin,Rioja ,San Fernando,12,15,14,5
+San Martin,Rioja ,Yorongos,12,15,14,5
+San Martin,Rioja ,Yuracyacu,12,15,14,5
+San Martin,San Martin ,Tarapoto,12,15,14,5
+San Martin,San Martin ,Alberto Leveau,12,15,14,5
+San Martin,San Martin ,Cacatachi,12,15,14,5
+San Martin,San Martin ,Chazuta,12,15,14,5
+San Martin,San Martin ,Chipurana,12,15,14,5
+San Martin,San Martin ,El Porvenir,12,15,14,5
+San Martin,San Martin ,Huimbayoc,12,15,14,5
+San Martin,San Martin ,Juan Guerra,12,15,14,5
+San Martin,San Martin ,La Banda de Shilcayo,12,15,14,5
+San Martin,San Martin ,Morales,12,15,14,5
+San Martin,San Martin ,Papaplaya,12,15,14,5
+San Martin,San Martin ,San Antonio,12,15,14,5
+San Martin,San Martin ,Sauce,12,15,14,5
+San Martin,San Martin ,Shapaja,12,15,14,5
+San Martin,Tocache ,Tocache,12,15,14,5
+San Martin,Tocache ,Nuevo Progreso,12,15,14,5
+San Martin,Tocache ,Polvora,12,15,14,5
+San Martin,Tocache ,Shunte,12,15,14,5
+San Martin,Tocache ,Uchiza,12,15,14,5
+Tacna,Tacna ,Tacna,12,15,14,5
+Tacna,Tacna ,Alto de la Alianza,12,15,14,5
+Tacna,Tacna ,Calana,12,15,14,5
+Tacna,Tacna ,Ciudad Nueva,12,15,14,5
+Tacna,Tacna ,Inclan,12,15,14,5
+Tacna,Tacna ,Pachia,12,15,14,5
+Tacna,Tacna ,Palca,12,15,14,5
+Tacna,Tacna ,Pocollay,12,15,14,5
+Tacna,Tacna ,Sama,12,15,14,5
+Tacna,Tacna ,Coronel Gregorio Albarracin Lanchipa,12,15,14,5
+Tacna,Tacna ,La Yarada los Palos,12,15,14,5
+Tacna,Candarave ,Candarave,12,15,14,5
+Tacna,Candarave ,Cairani,12,15,14,5
+Tacna,Candarave ,Camilaca,12,15,14,5
+Tacna,Candarave ,Curibaya,12,15,14,5
+Tacna,Candarave ,Huanuara,12,15,14,5
+Tacna,Candarave ,Quilahuani,12,15,14,5
+Tacna,Jorge Basadre ,Locumba,12,15,14,5
+Tacna,Jorge Basadre ,Ilabaya,12,15,14,5
+Tacna,Jorge Basadre ,Ite,12,15,14,5
+Tacna,Tarata ,Tarata,12,15,14,5
+Tacna,Tarata ,Héroes Albarracin,12,15,14,5
+Tacna,Tarata ,Estique,12,15,14,5
+Tacna,Tarata ,Estique-Pampa,12,15,14,5
+Tacna,Tarata ,Sitajara,12,15,14,5
+Tacna,Tarata ,Susapaya,12,15,14,5
+Tacna,Tarata ,Tarucachi,12,15,14,5
+Tacna,Tarata ,Ticaco,12,15,14,5
+Tumbes,Tumbes ,Tumbes,12,15,14,5
+Tumbes,Tumbes ,Corrales,12,15,14,5
+Tumbes,Tumbes ,La Cruz,12,15,14,5
+Tumbes,Tumbes ,Pampas de Hospital,12,15,14,5
+Tumbes,Tumbes ,San Jacinto,12,15,14,5
+Tumbes,Tumbes ,San Juan de la Virgen,12,15,14,5
+Tumbes,Contralmirante Villar ,Zorritos,12,15,14,5
+Tumbes,Contralmirante Villar ,Casitas,12,15,14,5
+Tumbes,Contralmirante Villar ,Canoas de Punta Sal,12,15,14,5
+Tumbes,Zarumilla ,Zarumilla,12,15,14,5
+Tumbes,Zarumilla ,Aguas Verdes,12,15,14,5
+Tumbes,Zarumilla ,Matapalo,12,15,14,5
+Tumbes,Zarumilla ,Papayal,12,15,14,5
+Ucayali,Coronel Portillo ,Calleria,12,15,14,5
+Ucayali,Coronel Portillo ,Campoverde,12,15,14,5
+Ucayali,Coronel Portillo ,Iparia,12,15,14,5
+Ucayali,Coronel Portillo ,Masisea,12,15,14,5
+Ucayali,Coronel Portillo ,Yarinacocha,12,15,14,5
+Ucayali,Coronel Portillo ,Nueva Requena,12,15,14,5
+Ucayali,Coronel Portillo ,Manantay,12,15,14,5
+Ucayali,Atalaya ,Raymondi,12,15,14,5
+Ucayali,Atalaya ,Sepahua,12,15,14,5
+Ucayali,Atalaya ,Tahuania,12,15,14,5
+Ucayali,Atalaya ,Yurua,12,15,14,5
+Ucayali,Padre Abad ,Padre Abad,12,15,14,5
+Ucayali,Padre Abad ,Irazola,12,15,14,5
+Ucayali,Padre Abad ,Curimana,12,15,14,5
+Ucayali,Padre Abad ,Neshuya,12,15,14,5
+Ucayali,Padre Abad ,Alexander Von Humboldt,12,15,14,5
+Ucayali,Purus,Purus,12,15,14,5
