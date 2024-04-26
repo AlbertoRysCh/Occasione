@@ -18,7 +18,7 @@ class PaymentOrder extends Component
 
     public $order, $message;
 
-    public $contratega = "0";
+    public $contratega = "1";
     public $stripe = "1";
     public $mercado_pago = "1";
     public $paypal = "0";
