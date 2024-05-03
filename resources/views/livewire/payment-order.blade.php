@@ -125,7 +125,29 @@ if ($configs != null) {
         <div class="order-1 col-span-3 md:col-span-3 lg:order-2 xl:col-span-2">
             {{-- ///INCIO --}}
             <div class="bg-white rounded-lg shadow-lg px-6 pt-6 pb-4">
-                <div class="flex justify-between items-center mb-4">
+                <!--Inicio seccion Cupón-->
+                @if (!$couponApplied)
+                        <form wire:submit.prevent="applyCoupon">
+                            <div style="padding-bottom: 20px;">
+                                <label for="coupon_code">Código de cupón:</label>
+                                <input class="shadow appearance-none border border-gray-300 rounded w-4/12 py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" type="text" id="coupon_code" wire:model="coupon_code">
+                                <button class="bg-blue-500 hover:bg-blue-700 w-4/12 text-white font-bold py-2 px-4 rounded" type="submit">Aplicar cupón</button>
+                            </div>
+                        </form>
+                    @endif
+                    @if ($coupon_applied)
+                        <div>
+                            Cupón aplicado: {{ $coupon_applied }}
+                            <button wire:click="removeCoupon" class="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded">Quitar cupón</button>
+                        </div>
+                    @endif
+                    @if (session()->has('message'))
+                    <div style="color: #4bff01;font-weight: 700;">{{ session('message') }}</div>
+                    @endif
+
+                <!--Fin seccion Cupón-->
+                <hr>
+                <div class="flex justify-between items-center mt-4 mb-4">
 
                     <img class="h-8" src="{{ asset('img/MC_VI_DI_2-1.jpg') }}" alt="">
 
@@ -197,6 +219,7 @@ if ($configs != null) {
                             </p>
                         </div>
                     @endif
+                    
 
                     <p class="text-sm text-gray-700 mt-2"> Sus datos personales se utilizarán para procesar su pedido
                         respaldar su experiencia en este sitio web y para otros fines descritos en nuestras <a

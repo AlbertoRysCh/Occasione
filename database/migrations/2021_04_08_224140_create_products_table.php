@@ -36,8 +36,8 @@ class CreateProductsTable extends Migration
             $table->unsignedBigInteger('brand_id');
             $table->foreign('brand_id')->references('id')->on('brands')->onDelete('cascade');
 
-            // $table->unsignedBigInteger('bell_id')->nullable();
-            // $table->foreign('bell_id')->references('id')->on('bells')->onDelete('cascade');
+            //$table->unsignedBigInteger('bell_id')->nullable();
+            //$table->foreign('bell_id')->references('id')->on('bells')->onDelete('cascade');
 
             $table->integer('quantity')->nullable();
 
@@ -55,6 +55,10 @@ class CreateProductsTable extends Migration
      */
     public function down()
     {
+        Schema::table('products', function (Blueprint $table) {
+            // Eliminar la restricción de clave foránea primero
+            $table->dropForeign(['bell_id']);
+        });
         Schema::dropIfExists('products');
     }
 }

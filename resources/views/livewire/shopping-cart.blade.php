@@ -17,6 +17,23 @@ $configs = DB::table('configs')
         </div>
 
         @if (Cart::count())
+        <!---->
+        <!--<form wire:submit.prevent="applyCoupon">
+            <div>
+                <label for="coupon_code">Código de cupón:</label>
+                <input type="text" id="coupon_code" wire:model="coupon_code">
+                <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" type="submit">Aplicar cupón</button>
+            </div>
+        </form>-->
+    
+        <!-- Mostrar el descuento aplicado -->
+        <!--@if ($coupon_applied)
+            <div>
+                Cupón aplicado: {{ $coupon_applied }}
+                <button wire:click="removeCoupon" class="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded">Quitar cupón</button>
+            </div>
+        @endif-->
+        <!---->
         @foreach (Cart::content() as $item)
                           
             <article class="flex px-10">
@@ -132,7 +149,7 @@ $configs = DB::table('configs')
                 <div>
                     <p class="text-gray-700">
                         <span class="font-bold text-lg">Total:</span>
-                        {{$money}} {{ Cart::subTotal() }}
+                        {{$money}} {{ Cart::subTotal() }} <!--{{ $totalWithDiscount }}-->
                     </p>
                 </div>
 

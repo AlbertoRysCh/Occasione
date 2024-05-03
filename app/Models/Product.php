@@ -87,4 +87,14 @@ class Product extends Model
     {
         return 'slug';
     }
+    public function coupons()
+    {
+        return $this->belongsToMany(Coupon::class);
+    }
+
+    public function applyDiscount($coupon)
+    {
+        $discountedPrice = $this->price * (1 - ($coupon->discount / 100));
+        return $discountedPrice;
+    }
 }
