@@ -71,6 +71,11 @@ $configs = DB::table('configs')->first();
                                     {{ __('Users') }}
                                 </x-dropdown-link>
 
+                                <x-dropdown-link href="{{ route('admin.coupon.index') }}"
+                                    :active="request()->routeIs('admin.coupon.index')">
+                                    {{ __('Cupones Descuento') }}
+                                </x-dropdown-link>
+
                             </div>
                         </x-slot>
                     </x-dropdown>

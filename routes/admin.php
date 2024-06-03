@@ -20,6 +20,7 @@ use App\Http\Controllers\Admin\CreateUbigeoController;
 use App\Http\Controllers\Admin\AccessFrontController;
 use App\Http\Controllers\Admin\LocationController;
 use App\Http\Controllers\Admin\BannerTopController;
+use App\Http\Controllers\Admin\CouponsController;
 use App\Http\Controllers\Admin\ReviewController;
 use App\Http\Livewire\Admin\ShowCategory;
 
@@ -35,6 +36,7 @@ use App\Http\Livewire\Admin\UserComponent;
 use App\Http\Controllers\Admin\ShowInvoiceController;
 use App\Http\Controllers\Admin\SendInvoiceController;
 use App\Http\Controllers\Admin\DownloadInvoiceController;
+use App\Http\Livewire\Admin\CreateCoupon;
 use App\Http\Livewire\Admin\ShowUbigeo;
 
 //INVOICE PDF
@@ -111,3 +113,5 @@ Route::get('ubigeo', ShowUbigeo::class)->name('admin.ubigeos.index');
 Route::get('cities/{city}', CityComponent::class)->name('admin.cities.show');
 
 Route::get('users', UserComponent::class)->name('admin.users.index');
+
+Route::get('create-coupon', CreateCoupon::class)->name('admin.coupon.index');
